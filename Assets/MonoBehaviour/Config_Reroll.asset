@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7036fa9366293aaf8d0680ad5917e02, type: 3}
+  m_Name: Config_Reroll
+  m_EditorClassIdentifier:
+  _freeRerollItem: {fileID: 11400000, guid: eeca2f2b4d65890409ef0411f87c5754, type: 2}
+  _rvRerollItem: {fileID: 11400000, guid: c646cb304677cc9488d69aeeed36dc0e, type: 2}
+  _freeRerollsPerkItem: {fileID: 11400000, guid: 472cd47ff654c3d469b776e6e823e286, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9153e7577e4164b9c967f6268bad563, type: 3}
+  m_Name: Material_Armor
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: af78c9a1-b589-4014-aa0f-f278547f6b63
+  _title: Armor Scroll
+  _description:
+  _icon: {fileID: 21300000, guid: 14fb1a191c5b2bc4aa186d86c4e85064, type: 2}
+  _background: {fileID: 21300000, guid: ba747a58bf1b87b40833615cd8ba65e4, type: 2}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:

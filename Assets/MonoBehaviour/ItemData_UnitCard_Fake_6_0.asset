@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366cfd4d4724a1f432c579468d30f36, type: 3}
+  m_Name: ItemData_UnitCard_Fake_6
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 06e573ea-0ae1-4d89-82a5-b60d2022d50a
+  _title: Cannon Tower
+  _description:
+  _icon: {fileID: 21300000, guid: 88ab4f3a694c3c24cbfbf75de9993acf, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 2
+  _material: {fileID: 11400000, guid: f89a3fd0f6547f44dbcc27e9a5d9b0a5, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules: []
+  _unlockType: 1
+  _stageRequirement: 1000
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats: []
+  _addBuildingUpgrade: {fileID: 0}
+  _isFake: 1

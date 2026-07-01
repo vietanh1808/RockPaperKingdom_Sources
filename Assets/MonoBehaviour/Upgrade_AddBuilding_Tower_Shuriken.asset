@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcdda791a289ad5a226877008f573f8, type: 3}
+  m_Name: Upgrade_AddBuilding_Tower_Shuriken
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 3bae99dc-9b32-4b0f-9c9f-2b7074fc36dd
+  _icon: {fileID: 21300000, guid: 3ce03969d4e0e444581672a240cc2d10, type: 2}
+  _name: Shuriken Tower
+  _description: Gain +1 shuriken for every 5 shards you own
+  _hint:
+  _maxUpgradesAmount: 1000
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _baseBuildingData: {fileID: 11400000, guid: 483cf042a552cd341b9ddad7dcd0d844, type: 2}

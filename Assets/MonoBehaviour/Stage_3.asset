@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c3635a916684cc7957c45bd98ea1c4c, type: 3}
+  m_Name: Stage_3
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _icon: {fileID: 21300000, guid: 62a7092d4ba93084c90a1080dbba0ad7, type: 2}
+  _waveLevelProgressionData:
+    _waveLevelCoefficients:
+    - 1.1
+    - 1.4
+    - 0.8
+    - 1.2
+    - 1.3
+    - 0.9
+    - 1.8
+    - 1.1
+    - 1.5
+    - 1.4
+    - 1.9
+    - 1.1
+    - 0.9
+    - 1.9
+    - 0.8
+    _progressionPreview:
+    - LevelUps: 1
+      Fraction: 0.1
+    - LevelUps: 1
+      Fraction: 0.5
+    - LevelUps: 1
+      Fraction: 0.3
+    - LevelUps: 1
+      Fraction: 0.5
+    - LevelUps: 1
+      Fraction: 0.8
+    - LevelUps: 1
+      Fraction: 0.7
+    - LevelUps: 2
+      Fraction: 0.5
+    - LevelUps: 1
+      Fraction: 0.6
+    - LevelUps: 2
+      Fraction: 0.1
+    - LevelUps: 1
+      Fraction: 0.5
+    - LevelUps: 2
+      Fraction: 0.4
+    - LevelUps: 1
+      Fraction: 0.5
+    - LevelUps: 1
+      Fraction: 0.4
+    - LevelUps: 2
+      Fraction: 0.3
+    - LevelUps: 1
+      Fraction: 0.1
+  _levelDesignPrefab: {fileID: 1648165968804462, guid: 3bb49017079e38344bb8b5aa2c152286, type: 2}
+  _waveSpawnPatternsPrefab: {fileID: 114768679664219519, guid: 6f3b0ba8ff5fd014786cb3b150ace75d, type: 2}
+  _defeatRewardsData:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+    _equipmentRarity: 0
+    _amount: 1920
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 1000
+  _victoryRewardsData:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+    _equipmentRarity: 0
+    _amount: 1920
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 1000
+  _stageChests:
+  - _castleHPPercent: 0
+    _chestType: 0
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _castleHPPercent: 0.5
+    _chestType: 0
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 500
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _castleHPPercent: 1
+    _chestType: 0
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 750
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 15
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 899e5686c52744c41b075cf18fcd3735, type: 2}
+      _equipmentRarity: 0
+      _amount: 1
+  _enemyStatMultiplierSettings: {fileID: 11400000, guid: 568f97e0ff980fc4eb25468e56c33293, type: 2}
+  _upgradeRounds:
+  - _upgrades:
+    - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+    - {fileID: 11400000, guid: c0416df5118990547a10e7e9f5603eca, type: 2}
+    - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - _upgrades:
+    - {fileID: 11400000, guid: c0416df5118990547a10e7e9f5603eca, type: 2}
+    - {fileID: 11400000, guid: c593df47a3ae78b44a1874d7501f9334, type: 2}
+    - {fileID: 11400000, guid: 14dd98f15ed469649845c8a49fa3c953, type: 2}
+  - _upgrades:
+    - {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+    - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+    - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  _bossChestUpgradeRounds:
+  - _upgrades:
+    - {fileID: 11400000, guid: 525c36f348963aa43bdbb741b0326215, type: 2}
+    - {fileID: 11400000, guid: 6a20ea7623747194e97a82a2f3b905ce, type: 2}
+    - {fileID: 11400000, guid: d0572104f437d8d499099f30984c9393, type: 2}
+  - _upgrades:
+    - {fileID: 11400000, guid: 10f5429f443a77f40965eed122d29fdd, type: 2}
+    - {fileID: 11400000, guid: dd488f3c9168a1b4ba982adea285409b, type: 2}
+    - {fileID: 11400000, guid: ed8ffe2e7a36fd447a4ca9fee3a10dce, type: 2}
+  _mysteryCardShopRewardWaves:
+  _stakeTokenSettings: {fileID: 11400000, guid: 29dd40fa55a907c4cbdb14977b1e839b, type: 2}
+  _predefinedRpsPlays:
+  - _resultType: 1
+    _outcomeType: 0
+  - _resultType: 0
+    _outcomeType: 2
+  - _resultType: 1
+    _outcomeType: 3
+  - _resultType: 0
+    _outcomeType: 3
+  - _resultType: 2
+    _outcomeType: 2
+  - _resultType: 0
+    _outcomeType: 2
+  - _resultType: 1
+    _outcomeType: 0
+  - _resultType: 0
+    _outcomeType: 2
+  - _resultType: 1
+    _outcomeType: 0
+  - _resultType: 1
+    _outcomeType: 0
+  - _resultType: 0
+    _outcomeType: 1
+  - _resultType: 0
+    _outcomeType: 3
+  - _resultType: 0
+    _outcomeType: 2
+  - _resultType: 2
+    _outcomeType: 0

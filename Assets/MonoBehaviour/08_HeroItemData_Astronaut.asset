@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e7f593346045b7516fb3fa188cf18d, type: 3}
+  m_Name: 08_HeroItemData_Astronaut
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 25c2efe5-daa5-4fc8-b457-91c960d22c05
+  _title: Astronaut
+  _description:
+  _icon: {fileID: 21300000, guid: 92483e14f77f20243a9f1b8f4d02b5dc, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 0
+  _material: {fileID: 11400000, guid: 731662a1cf87a604c80b02f439dac822, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: edce405ae8056e94ea3cfdccae7c3778, type: 2}
+    - {fileID: 11400000, guid: 885aa72813f463043a76a7b149762b5a, type: 2}
+    - {fileID: 11400000, guid: 8633ac4efb94c214e8e72ca4fb8b7448, type: 2}
+    - {fileID: 11400000, guid: 8e869ee77e605f34b8df0a4145b7df71, type: 2}
+  _unlockType: 40
+  _stageRequirement: 100
+  _unlockInventoryItem: {fileID: 11400000, guid: 3eb4418d062abb24b8045037a43d85b3, type: 2}
+  _unlockInventoryItemAmount: 25
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats: []
+  _attachedUnitCards:
+  - {fileID: 11400000, guid: 9e9b8c84b8bb01d4e8fc43b47b484bff, type: 2}
+  - {fileID: 11400000, guid: d60c43eae4629f849874c3867ab45eea, type: 2}
+  - {fileID: 11400000, guid: c6771fbb25273d040964eaf0b3d60331, type: 2}
+  - {fileID: 11400000, guid: 3e772f2662cf081488c7b9180a112453, type: 2}
+  - {fileID: 11400000, guid: d301dfd7146d52f4abdf67b55a1fbce1, type: 2}
+  - {fileID: 11400000, guid: a05de23ea320db04086b985a0679bde3, type: 2}
+  - {fileID: 11400000, guid: d22675251ab6e9b4591ed84c7a475498, type: 2}
+  _unlockedUnitCards:
+  - {fileID: 11400000, guid: 9e9b8c84b8bb01d4e8fc43b47b484bff, type: 2}

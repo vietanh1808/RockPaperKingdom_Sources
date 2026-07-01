@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c682ac431076972cdfff15dac6cd4289, type: 3}
+  m_Name: BuildingData_UnitSpawn_Spearmans
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 85d5dfde-5059-41e4-84aa-40676ce9fadc
+  _addBuildingUpgrade: {fileID: 11400000, guid: 0ecf2c47ee0b11a40aff86665eb37221, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: c05a38d17cf7f8b468ab18b40a532145, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 9f249298c4bd5bd42a5612326ffe0407, type: 2}
+  _prefab: {fileID: 114575419874932910, guid: 950f49661e4ec004ab0b03c9d72046bf, type: 2}
+  _spawnUnit: {fileID: 11400000, guid: 0df8a3a91cac6dc478a8f09b2e78b0e6, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 0
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules: []
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

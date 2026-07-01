@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e08818ef587be68402a09b8167966f, type: 3}
+  m_Name: InventoryItemBundle_Equipment
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 290417f7-f772-4d90-b70e-8e9661bee5a7
+  _title: Equipment Chest
+  _description:
+  _icon: {fileID: 21300000, guid: faf2c0f61ae00df4db69005ec8ff300a, type: 2}
+  _background: {fileID: 21300000, guid: 60c82654ddd2f234ca5c14f3a2e895eb, type: 2}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _items:
+  - _item: {fileID: 11400000, guid: 055f9aa9de29e2e438e9bcb2c1025537, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: a61b163d512435846ac4dd3b48e562a7, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 60b3fb8e8a4b303459cbe2cfaf5865b6, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 541722b336b2d144593fb2ea7e23a14f, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 43a075d0215f0bf439507714b27f79ce, type: 2}
+    _weight: 14
+    _weightPercent: 0.035
+  - _item: {fileID: 11400000, guid: 301b53e5ea84e6846b92ca8aab096127, type: 2}
+    _weight: 14
+    _weightPercent: 0.035
+  - _item: {fileID: 11400000, guid: 63941b8e2fea62c449a10ce5f5052e2f, type: 2}
+    _weight: 14
+    _weightPercent: 0.035
+  - _item: {fileID: 11400000, guid: e144557f530542d418788d889908f2a0, type: 2}
+    _weight: 14
+    _weightPercent: 0.035
+  - _item: {fileID: 11400000, guid: b499a7590e275e74096daa6d175ffee2, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: a0a08053179aa9e4ab8de302825890fe, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 57a153efc3543764284fc594958ed98c, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: c8f42e76805eaec41911c1409571c943, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: d9446a2e542d1b841b95ba4d0b15ca7d, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: c08879d5b1c3c444aafe7e5e359c5eda, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 29aa9c1cca134354e951c5e14a2d6bfb, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 9c284e63adc1fdc4c99792ad551972f6, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: a8f6cb4d485741d4c9895384675302a0, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 864c108eb15ef0b449228d0ea49f5fbb, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: f9bf70ccb5ba8f647921981b6bed82b7, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: c7f1fa4d43aa9024d9d16c51d42512da, type: 2}
+    _weight: 19
+    _weightPercent: 0.0475
+  - _item: {fileID: 11400000, guid: 21eb77cb8df1b47488e9c26cbeeee143, type: 2}
+    _weight: 10
+    _weightPercent: 0.025
+  - _item: {fileID: 11400000, guid: c0285b4fa32fab142b04286fe421af0a, type: 2}
+    _weight: 10
+    _weightPercent: 0.025
+  - _item: {fileID: 11400000, guid: 1a37cd90bd1bf144180d85eaaf442ff0, type: 2}
+    _weight: 10
+    _weightPercent: 0.025
+  - _item: {fileID: 11400000, guid: 0b4c6edb58713564e882354837028176, type: 2}
+    _weight: 10
+    _weightPercent: 0.025

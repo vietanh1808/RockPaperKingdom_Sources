@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41e2d8cf2f98d134cd26aad3d55df8b, type: 3}
+  m_Name: Config_Hero
+  m_EditorClassIdentifier:
+  _collection: {fileID: 11400000, guid: 192c512988a5a21469c95f6f7f6ebc11, type: 2}
+  _levelUpCollection: {fileID: 11400000, guid: 1e8319a5fe509be43a577455551f2bb3, type: 2}
+  _defaultSelected:
+  - {fileID: 11400000, guid: 2a6267cea0a62a4448dd1603fddd168b, type: 2}
+  - {fileID: 11400000, guid: 741ff54cc1c94b7459f6098df475e7a6, type: 2}
+  _maxSelectableHeroes: 3
+  _autoSelect: 1
+  _heroSelectionTriggerHero: {fileID: 11400000, guid: e60a0ae19d18ff842a2d893d3fb90970, type: 2}
+  _unlockReward:
+    _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 5

@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adcd4bc117801fbe659aedc6c325e175, type: 3}
+  m_Name: Config_PatrolRewards
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _unlockedTime:
+    _hours: 1
+    _minutes: 0
+    _seconds: 0
+  _maxPatrolTime:
+    _hours: 24
+    _minutes: 0
+    _seconds: 0
+  _noRewardTime:
+    _hours: 0
+    _minutes: 10
+    _seconds: 0
+  _rewardsByStage:
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 600
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1200
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 600
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1250
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 600
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1300
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 1440
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1300
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 1560
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1350
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 1680
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1400
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 1800
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1450
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 1900
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1500
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2000
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1550
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2100
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1600
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2200
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1650
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2300
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1700
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2400
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1750
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2500
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1800
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  - _rewards:
+    - _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+      _amountPerHour: 2700
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amountPerHour: 1850
+    - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _amountPerHour: 4
+  _rewardLimits:
+  - _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+    _minRewardLimit: 1
+    _maxRewardLimit: 24
+  _firstUnlockRewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 3000
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+    _equipmentRarity: 0
+    _amount: 12
+  _quickPatrolHours: 8
+  _quickPatrolEnergyCost: 5
+  _quickPatrolUsesLimit: 3
+  _quickPatrolCooldown:
+    _hours: 24
+    _minutes: 0
+    _seconds: 0
+  _unlimitedQuickPatrolItemData: {fileID: 11400000, guid: 4d468906409eba6448636ec82256ee22, type: 2}

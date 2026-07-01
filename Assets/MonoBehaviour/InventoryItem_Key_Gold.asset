@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9153e7577e4164b9c967f6268bad563, type: 3}
+  m_Name: InventoryItem_Key_Gold
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: e1eee684-fe4f-4228-a96b-e67b927d40f5
+  _title: Gold Key
+  _description:
+  _icon: {fileID: 21300000, guid: 7bc024073e856164d8e91061d493b448, type: 2}
+  _background: {fileID: 21300000, guid: 14afe3a2674d3b446ad472d43dc1c986, type: 2}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 1
+  _lionAnalyticsType: key
+  _lionAnalyticsTitle: epic_key

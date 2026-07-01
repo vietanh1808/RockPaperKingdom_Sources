@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 793dd7ae78d79716f5dba4b071cc848d, type: 3}
+  m_Name: 3_ArenaTier_Bronze_Tier_III
+  m_EditorClassIdentifier:
+  _requiredRating: 1300
+  _name: Bronze - Tier III
+  _icon: {fileID: 21300000, guid: 9bea48cb96d87814d907268a3f724b84, type: 2}
+  _winRating: 25
+  _loseRating: 14
+  _winRewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+    _equipmentRarity: 0
+    _amount: 300
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 1200
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 5
+  _loseRewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+    _equipmentRarity: 0
+    _amount: 100
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 400
+  _drawRewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 02b1e1ad1c2d2ac45af09901d1afaba8, type: 2}
+    _equipmentRarity: 0
+    _amount: 300
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 1200
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 3
+  _enemyHpMultiplier: 1.8
+  _enemyDamageMultiplier: 1.8
+  _enemyCastleHpMin: 105
+  _enemyCastleHpMax: 120
+  _strategies:
+  - {fileID: 11400000, guid: c83626b362f069c43a9287e77d64f252, type: 2}
+  - {fileID: 11400000, guid: 0042e12559fb6a640b51ce55f2cbe680, type: 2}
+  - {fileID: 11400000, guid: 0d371d8acdb3a4346bfe71b2303c324b, type: 2}
+  - {fileID: 11400000, guid: 0689f8df3a97a7c48b2e569fb01d21b3, type: 2}
+  - {fileID: 11400000, guid: c94f6830a97e9ed45957e1390471457a, type: 2}
+  - {fileID: 11400000, guid: d44b9ed238bce9a4b9727c1191d22ddc, type: 2}
+  - {fileID: 11400000, guid: 8c5efbe3e215f4446a7c7cd9206dfcb6, type: 2}
+  - {fileID: 11400000, guid: a3642444cdbc9ca418e1be76371f846c, type: 2}
+  _chests:
+  - _requiredRating: 1350
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 3000
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+  - _requiredRating: 1400
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 3500
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 15
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 899e5686c52744c41b075cf18fcd3735, type: 2}
+      _equipmentRarity: 0
+      _amount: 2
+  - _requiredRating: 1500
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 4000
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 20
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: dc141af1228c18745b647bc30484809c, type: 2}
+      _equipmentRarity: 0
+      _amount: 2

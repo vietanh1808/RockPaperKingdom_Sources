@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9153e7577e4164b9c967f6268bad563, type: 3}
+  m_Name: 02_Material_Hero_Warrior
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: c5105faf-5184-48c1-a47e-91048290a5f4
+  _title: Warrior
+  _description:
+  _icon: {fileID: 21300000, guid: 3d98b507522b18b42ba1114f99879501, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:

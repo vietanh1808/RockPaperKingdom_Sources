@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366cfd4d4724a1f432c579468d30f36, type: 3}
+  m_Name: ItemData_UnitCard_Death
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 83af925b-b16a-40e7-8c94-9b2ae78c646a
+  _title: Death
+  _description: Throws a piercing returning scythe
+  _icon: {fileID: 21300000, guid: 5e1a845fe07b04e49b46763f90b2ff96, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 0
+  _material: {fileID: 11400000, guid: b81af402ec75d094eb07968e1313c00b, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules: []
+  _unlockType: 20
+  _stageRequirement: 1000
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats:
+  - {fileID: 11400000, guid: 5fc8ff5e998f1694f9bdb52926868e8b, type: 2}
+  - {fileID: 11400000, guid: cf0812a8bf90f9b42a234864b96bdcbc, type: 2}
+  _addBuildingUpgrade: {fileID: 11400000, guid: 5e7625392720d36488c873d5e6de8ad4, type: 2}
+  _isFake: 0

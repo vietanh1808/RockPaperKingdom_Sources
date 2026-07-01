@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f26a5db2d793d590086f51335f6c0c2, type: 3}
+  m_Name: BuildingData_Wall
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: d5da152a-f5d0-4084-9a96-15fdb8b47b7e
+  _addBuildingUpgrade: {fileID: 11400000, guid: 9ae3cfae60bc5a64a813fc5cd241f686, type: 2}
+  _isTargetable: 1
+  _level2LevelUp: {fileID: 11400000, guid: 149290dfb0a3ea948ad4e1fc0bfaa8fb, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 417e9604b0ae37547ae331534ee690a9, type: 2}
+  _prefab: {fileID: 114690338078443684, guid: 30b441d16fb4f3f44a8385ebf7160195, type: 2}
+  _towerData: {fileID: 11400000, guid: 1aabcd65cda9ca1458201c79eb239c35, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 0
+    _uniqueBonusModules:
+      _parent: {fileID: 0}
+      _modules: []
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

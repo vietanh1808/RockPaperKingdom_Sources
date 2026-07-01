@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88ac56d1718628775e96fafede1e27f, type: 3}
+  m_Name: Purchase_Gems_IAP_6
+  m_EditorClassIdentifier:
+  _guid: 312ed49e-f084-4ad5-89cd-ae82fb0d461d
+  _priceType: 2
+  _priceItemData: {fileID: 0}
+  _priceItemAmount: 0
+  _displayCurrencyAmount: 0
+  _productData: {fileID: 11400000, guid: e3d872c6d4db77b4480255e9f95cd655, type: 2}
+  _cooldownTime:
+    _hours: 0
+    _minutes: 0
+    _seconds: 0
+  _availableAmount: 1
+  _maxPurchases: 0
+  _shopSlotData:
+    _title: Chest of Gems
+    _icon: {fileID: 21300000, guid: 1f226d59ca7e6084e8e18d09dbfdd491, type: 2}
+  _placement: shop
+  _rewardType: 1
+  _rewardDisplayMode: 1
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 6000
+  _chestDataAmount:
+    _data: {fileID: 0}
+    _amount: 0

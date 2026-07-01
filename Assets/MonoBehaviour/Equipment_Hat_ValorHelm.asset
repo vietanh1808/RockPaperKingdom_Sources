@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525b91a2b2dc671f39d5a90645b543e9, type: 3}
+  m_Name: Equipment_Hat_ValorHelm
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: fa668200-8280-4b16-9d31-56552a13d99a
+  _title: Valor Helm
+  _description: A helmet for knights, providing strong defense and honor.
+  _icon: {fileID: 21300000, guid: d79518dca352af9408c187d1f40d10d9, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _equipmentTypeData: {fileID: 11400000, guid: 977f0f5b0ac30d841ad229f70426e740, type: 2}
+  _mainStatData: {fileID: 11400000, guid: 1a4c9b62bafa0584a9c960de6c930014, type: 2}
+  _equipmentModifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 48b41402bb4c60c42a2d886ec6c4b6d8, type: 2}
+    - {fileID: 11400000, guid: 916be002dae6c9f4b92acaa84000b836, type: 2}
+    - {fileID: 11400000, guid: 6f1f0874a0e9a604b9c0ce26b5a7ca32, type: 2}

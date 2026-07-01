@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3d0d4dbcfb071d38dac4bd0c3dc8311, type: 3}
+  m_Name: ArenaTicketInventoryItem_ArenaTicket
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 17ace20a-8d97-45ec-8e69-9ef5848ebdff
+  _title: Arena Ticket
+  _description:
+  _icon: {fileID: 21300000, guid: c586cdb7f33d90447919abd9243d0745, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 1
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:

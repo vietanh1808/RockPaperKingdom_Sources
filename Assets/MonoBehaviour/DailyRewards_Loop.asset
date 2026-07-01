@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f8cf977d132ae68f9a8fb6e71213fc6, type: 3}
+  m_Name: DailyRewards_Loop
+  m_EditorClassIdentifier:
+  _days:
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 899e5686c52744c41b075cf18fcd3735, type: 2}
+      _equipmentRarity: 0
+      _amount: 3
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 10000
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 200
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: dc141af1228c18745b647bc30484809c, type: 2}
+      _equipmentRarity: 0
+      _amount: 3
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d6c4118efa65af44c86f04b0904be6ea, type: 2}
+      _equipmentRarity: 0
+      _amount: 25
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 200
+  - _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 20000
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 300
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: dc141af1228c18745b647bc30484809c, type: 2}
+      _equipmentRarity: 0
+      _amount: 5

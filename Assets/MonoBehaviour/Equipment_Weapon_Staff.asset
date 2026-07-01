@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525b91a2b2dc671f39d5a90645b543e9, type: 3}
+  m_Name: Equipment_Weapon_Staff
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 3548d293-cb0c-43a8-b334-f9103db3ace7
+  _title: Staff
+  _description: An elegant staff, enhancing magical abilities and wisdom.
+  _icon: {fileID: 21300000, guid: c9b38cb60dcb8be4a93679806fe48776, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _equipmentTypeData: {fileID: 11400000, guid: 22710230b6be3ea4ab037569d3eebc6b, type: 2}
+  _mainStatData: {fileID: 11400000, guid: e429e4d0a1088ca40b93230a94ac86d5, type: 2}
+  _equipmentModifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 3b3c47a1d77d9be4ba529692232582ee, type: 2}
+    - {fileID: 11400000, guid: 182add1546a2ca34c93bdb3fda3daec8, type: 2}
+    - {fileID: 11400000, guid: a2ebd60ccbc84ba4a9de98f0f978d8ec, type: 2}

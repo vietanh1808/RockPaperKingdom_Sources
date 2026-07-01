@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24861bddf9b6d032bf25573324a94b5d, type: 3}
+  m_Name: DailyStreakDayData_5
+  m_EditorClassIdentifier:
+  _questHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 29cae43d5f6bcbc4d9879bdb6ebda299, type: 2}
+    - {fileID: 11400000, guid: c8093de23dce33f45a0884c75eef2d58, type: 2}
+    - {fileID: 11400000, guid: 207fc74308e65fa40a67d220cd3773af, type: 2}
+    - {fileID: 11400000, guid: 9e17ff9ed4e19824cb1bcb8d430bede1, type: 2}
+    - {fileID: 11400000, guid: f22fc5f1c960a5c469a9494fae410b11, type: 2}
+    - {fileID: 11400000, guid: bc22886225915f345a6d6149985eab85, type: 2}
+    - {fileID: 11400000, guid: ce4c155ed8fc8be47bd56ebedf490eaf, type: 2}
+    - {fileID: 11400000, guid: 3d95a8be4610b4b46b14449dc641d626, type: 2}
+    - {fileID: 11400000, guid: f914871d9a7975045afc17aff596b4c5, type: 2}

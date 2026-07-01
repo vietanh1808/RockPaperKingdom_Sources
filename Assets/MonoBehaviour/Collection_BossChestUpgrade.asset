@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d620879b644dce2d35c94d4eaff3eae, type: 3}
+  m_Name: Collection_BossChestUpgrade
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _upgrades:
+  - {fileID: 11400000, guid: 10f5429f443a77f40965eed122d29fdd, type: 2}
+  - {fileID: 11400000, guid: e21a09031d5ff044297bee70b2360c8f, type: 2}
+  - {fileID: 11400000, guid: dd488f3c9168a1b4ba982adea285409b, type: 2}
+  - {fileID: 11400000, guid: 525c36f348963aa43bdbb741b0326215, type: 2}
+  - {fileID: 11400000, guid: d0572104f437d8d499099f30984c9393, type: 2}
+  - {fileID: 11400000, guid: 7f45b5d59ddc25a43a9d3a3e85f6746f, type: 2}
+  - {fileID: 11400000, guid: 6a20ea7623747194e97a82a2f3b905ce, type: 2}
+  - {fileID: 11400000, guid: ed8ffe2e7a36fd447a4ca9fee3a10dce, type: 2}
+  - {fileID: 11400000, guid: d86a74d9921d7e7429f521327c4634c6, type: 2}
+  - {fileID: 11400000, guid: 16650ea52848fa642b1acd8cab981da3, type: 2}
+  - {fileID: 11400000, guid: fa5760aa5dafa024f8c2d7921429f3dd, type: 2}
+  - {fileID: 11400000, guid: 3884c79203999bc45b059739c9ef2c14, type: 2}
+  - {fileID: 11400000, guid: d84d85d2d11615349a4f20e504e12c40, type: 2}

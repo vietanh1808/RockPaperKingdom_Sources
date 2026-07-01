@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525b91a2b2dc671f39d5a90645b543e9, type: 3}
+  m_Name: Equipment_Amulet_Snake
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 88ea6e29-9767-4d5b-baa4-e88b82d420fe
+  _title: Snake
+  _description: A necklace featuring a snake design, embodying cunning and agility.
+  _icon: {fileID: 21300000, guid: 3ebd043e41e0d864899627b9356144ef, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _equipmentTypeData: {fileID: 11400000, guid: dfd83e7b0862d274e89663e5ac0b56ef, type: 2}
+  _mainStatData: {fileID: 11400000, guid: edaac9f9be9b4db45bc626edb77a9d9c, type: 2}
+  _equipmentModifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: f1483a4cbe9b0d5428cd9ca68cff441b, type: 2}
+    - {fileID: 11400000, guid: 764d0037173e18843b4ec811815f2871, type: 2}
+    - {fileID: 11400000, guid: bb75b21a2ebfecb4a9350888d883759d, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a875f6d1ef2e4099d5353cc7055adafb, type: 3}
+  m_Name: Config_Equipment
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _equipmentCollection: {fileID: 11400000, guid: 6044ccac4b455604da80308b9fb1e2fc, type: 2}
+  _equipmentLevelUpCollection: {fileID: 11400000, guid: b258603140770b94fbd83358e2f2d4ea, type: 2}
+  _equipmentRuleToSortByType: {fileID: 11400000, guid: 9513e255ce6ea8545855ae7c43729996, type: 2}
+  _equipmentItemBundle: {fileID: 11400000, guid: 61f448c613207874185814db43212d33, type: 2}

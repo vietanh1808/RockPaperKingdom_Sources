@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c92410ac24cee506349fc0ecbecd7b9, type: 3}
+  m_Name: Config_Sounds
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _floatingReward: {fileID: 11400000, guid: efe16ab9575559c4fa3fcd17d8f14e2b, type: 2}
+  _menuMusic: {fileID: 11400000, guid: 5a42350e9ea86c940b02e5d1a170ca33, type: 2}
+  _gameMusic: {fileID: 11400000, guid: 239daaaf15bda7e4c8a10341c0cca4f1, type: 2}
+  _bossFightMusic: {fileID: 11400000, guid: 68b2a12b1d754c942952160f62646ed5, type: 2}

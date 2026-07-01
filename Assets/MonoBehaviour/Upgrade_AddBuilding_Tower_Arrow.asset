@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcdda791a289ad5a226877008f573f8, type: 3}
+  m_Name: Upgrade_AddBuilding_Tower_Arrow
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 492f332c-8d46-42a4-be5f-8f93f1d5a7de
+  _icon: {fileID: 21300000, guid: afd408adb1f5a61428fc93b7174b8241, type: 2}
+  _name: Arrow Tower
+  _description: Shoots single target arrows
+  _hint:
+  _maxUpgradesAmount: 1000
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _baseBuildingData: {fileID: 11400000, guid: 90b0080b527c08749847d0aec1675153, type: 2}

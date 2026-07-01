@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15a469c3a7a7dedc756217234798448, type: 3}
+  m_Name: BuildingData_PowerUp_Blacksmith
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: b39dc794-3666-4f28-823d-908c346aee3a
+  _addBuildingUpgrade: {fileID: 11400000, guid: c0416df5118990547a10e7e9f5603eca, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: 06a43e5dd66c40841868f9b8b10c84a9, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 2b6daa636beed11478ea8fc343bbd03a, type: 2}
+  _prefab: {fileID: 114003268726703057, guid: 0089300e34fcc1b449f6ffeb6690b374, type: 2}
+  _targetType: 2
+  _specificBuildingData: {fileID: 0}
+  _cellsProviderType: 0
+  _upgradeModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 1e141a0f37c82ae42aa7fd5d04a10f82, type: 2}

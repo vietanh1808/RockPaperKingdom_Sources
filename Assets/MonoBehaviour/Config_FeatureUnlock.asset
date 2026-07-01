@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a39dc8fca2e6a22833df4ca5f97d0a, type: 3}
+  m_Name: Config_FeatureUnlock
+  m_EditorClassIdentifier:
+  _stageChestFeature: {fileID: 11400000, guid: d205577b394cf484a9694cc2b1b1bcf6, type: 2}
+  _shopFeature: {fileID: 11400000, guid: d51e98fc42f2c9a4fb46711d3551b631, type: 2}
+  _inventoryFeature: {fileID: 11400000, guid: 99b4d6b122e73544294972caa5ae44ea, type: 2}
+  _playerUpgradesFeature: {fileID: 11400000, guid: a262d2b41aa61a84cbdafbad1efa661a, type: 2}
+  _dailyRewardsFeature: {fileID: 11400000, guid: 53c9ada84aad85546b6a145a134df138, type: 2}
+  _patrolRewardsFeature: {fileID: 11400000, guid: 63de4ac90df9ebf48aa86ded271d3618, type: 2}
+  _equipmentUpgrades: {fileID: 11400000, guid: 84c8c11da8d004d48a67edaa17857912, type: 2}
+  _heroFeature: {fileID: 11400000, guid: 430fb978c439a50439dc0885d5323396, type: 2}
+  _heroUpgrades: {fileID: 11400000, guid: d00e4c4fe1a754b498125a13d2ddcb0c, type: 2}
+  _heroSelection: {fileID: 11400000, guid: 9710792381a11094c8457df366ba54c3, type: 2}
+  _heroCardsTutorial: {fileID: 11400000, guid: 07119b7f78e7c6e468400874616c5d37, type: 2}
+  _unitCardUpgrades: {fileID: 11400000, guid: 41ebba9a5dd70fc49991480c7a1cb40c, type: 2}
+  _dailyStreakQuestFeature: {fileID: 11400000, guid: 01f025be1bd4a4747b252f6caa76cc7b, type: 2}
+  _pvpArenaFeature: {fileID: 11400000, guid: 896eb9a540210804a82f53ab52568855, type: 2}
+  _hardModeFeature: {fileID: 11400000, guid: 9dcb7ca3cfe3c3f499936b5e7242280f, type: 2}
+  _collection:
+  - {fileID: 11400000, guid: d205577b394cf484a9694cc2b1b1bcf6, type: 2}
+  - {fileID: 11400000, guid: d00e4c4fe1a754b498125a13d2ddcb0c, type: 2}
+  - {fileID: 11400000, guid: d51e98fc42f2c9a4fb46711d3551b631, type: 2}
+  - {fileID: 11400000, guid: 9710792381a11094c8457df366ba54c3, type: 2}
+  - {fileID: 11400000, guid: 430fb978c439a50439dc0885d5323396, type: 2}
+  - {fileID: 11400000, guid: a262d2b41aa61a84cbdafbad1efa661a, type: 2}
+  - {fileID: 11400000, guid: 63de4ac90df9ebf48aa86ded271d3618, type: 2}
+  - {fileID: 11400000, guid: 53c9ada84aad85546b6a145a134df138, type: 2}
+  - {fileID: 11400000, guid: 84c8c11da8d004d48a67edaa17857912, type: 2}
+  - {fileID: 11400000, guid: 848c538c011ccd740b36bd85dae7bfbf, type: 2}
+  - {fileID: 11400000, guid: 99b4d6b122e73544294972caa5ae44ea, type: 2}
+  - {fileID: 11400000, guid: f8f2301729ad4994ca7055da250f1970, type: 2}
+  - {fileID: 11400000, guid: 41ebba9a5dd70fc49991480c7a1cb40c, type: 2}
+  - {fileID: 11400000, guid: 07119b7f78e7c6e468400874616c5d37, type: 2}
+  - {fileID: 11400000, guid: 896eb9a540210804a82f53ab52568855, type: 2}
+  - {fileID: 11400000, guid: ff9cddee2d8eb814db70cb317991d30b, type: 2}
+  - {fileID: 11400000, guid: 01f025be1bd4a4747b252f6caa76cc7b, type: 2}
+  - {fileID: 11400000, guid: 9dcb7ca3cfe3c3f499936b5e7242280f, type: 2}

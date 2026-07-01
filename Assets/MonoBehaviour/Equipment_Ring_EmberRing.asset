@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525b91a2b2dc671f39d5a90645b543e9, type: 3}
+  m_Name: Equipment_Ring_EmberRing
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 5d740c63-5f5b-487f-9d63-da4c116aa60c
+  _title: Ember Ring
+  _description: A simple ring made of bronze, offering basic enhancements.
+  _icon: {fileID: 21300000, guid: 02fd85d76570c32468d2ee9a9ccb2e0f, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _equipmentTypeData: {fileID: 11400000, guid: 07a3e6c81aeb8374d9de213a67acd425, type: 2}
+  _mainStatData: {fileID: 11400000, guid: 1e460c4812233fa4593d2f4757bca785, type: 2}
+  _equipmentModifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 03d66c3aab76317409c79421e64483e2, type: 2}
+    - {fileID: 11400000, guid: d52a1321d4728ad44af1035cbe7246ac, type: 2}
+    - {fileID: 11400000, guid: 1144886fe55c78a4fbb68ff91f879b50, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eac79d8a01bf0986d938133e47ac3c6e, type: 3}
+  m_Name: BuildingData_LevelUp_GrowthBlessing
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 19b909fc-2c79-4897-afc5-9fe83c9f19b7
+  _addBuildingUpgrade: {fileID: 11400000, guid: e999b4ad3cf22754d88256c4166bb86f, type: 2}
+  _isTargetable: 1
+  _level2LevelUp: {fileID: 0}
+  _level3LevelUp: {fileID: 0}
+  _targetType: 2
+  _specificBuildingData: {fileID: 0}
+  _applySfx: {fileID: 11400000, guid: a3b53945b8cb6ed43b53cb381455128a, type: 2}

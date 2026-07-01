@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4079d4f67f1a7bd49be6c127c2f568c6, type: 3}
+  m_Name: ComplexityValidation_1
+  m_EditorClassIdentifier:
+  _color: {r: 0.6326521, g: 0.0028585198, b: 0.3499489, a: 1}
+  _upgradesForced:
+  - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+  - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+  - {fileID: 11400000, guid: 14dd98f15ed469649845c8a49fa3c953, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 9cfc21870176cd443978aca3ad99b6cb, type: 2}
+  - {fileID: 11400000, guid: 66adc2abf708200498b75e5bb6f3e59c, type: 2}
+  - {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: 66adc2abf708200498b75e5bb6f3e59c, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+  - {fileID: 11400000, guid: 14dd98f15ed469649845c8a49fa3c953, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+  - {fileID: 11400000, guid: b124575a9f76fb64482a5de02b4ec1a9, type: 2}
+  - {fileID: 11400000, guid: 893ce76acf5c90543bd5b3f114a966d3, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  _unitsPriority: []
+  _upgradesPriority: []
+  _bossChestUpgradesForced:
+  - {fileID: 11400000, guid: e21a09031d5ff044297bee70b2360c8f, type: 2}
+  - {fileID: 11400000, guid: 525c36f348963aa43bdbb741b0326215, type: 2}
+  - {fileID: 11400000, guid: d0572104f437d8d499099f30984c9393, type: 2}
+  _bossChestUpgradesPriority: []
+  _buildingPlacementConfig: {fileID: 11400000, guid: 3c4d8a6cbfa321649a72965be919d865, type: 2}
+  _useOverrideSeed: 0
+  _seed: 1

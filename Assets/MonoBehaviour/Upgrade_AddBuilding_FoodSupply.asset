@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcdda791a289ad5a226877008f573f8, type: 3}
+  m_Name: Upgrade_AddBuilding_FoodSupply
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 0e5f3788-4082-4de3-8e27-6d664e41a8ed
+  _icon: {fileID: 21300000, guid: e6b1f7a1ebe547949b1c1fa6deb8aea7, type: 2}
+  _name: Food Supply
+  _description: Adds 3 units to selected slot
+  _hint:
+  _maxUpgradesAmount: 1000
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _baseBuildingData: {fileID: 11400000, guid: 43bbf2f9a8243a944a439438a72cd5e1, type: 2}

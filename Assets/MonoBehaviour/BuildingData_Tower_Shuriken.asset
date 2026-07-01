@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f26a5db2d793d590086f51335f6c0c2, type: 3}
+  m_Name: BuildingData_Tower_Shuriken
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: d4429a67-26a0-44c3-8029-9d4db5b495f3
+  _addBuildingUpgrade: {fileID: 11400000, guid: 7151a142d07f23645baeaa038e0595cb, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: 734b379dd2d79674fbe51256f789e0ff, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: c203a9e900b16d44a89af22eb10b9842, type: 2}
+  _prefab: {fileID: 114743510785683982, guid: 25c13861e6c390a479d2a85268adafb2, type: 2}
+  _towerData: {fileID: 11400000, guid: b72910e9104bc984d8c0315deba03a21, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 4
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules:
+      - {fileID: 11400000, guid: 826074204b99b9046b3ddf654ca57866, type: 2}
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 11400000, guid: 140067112b943b6478cda27f18c82c2c, type: 2}
+    _amountPerIncrease: 5

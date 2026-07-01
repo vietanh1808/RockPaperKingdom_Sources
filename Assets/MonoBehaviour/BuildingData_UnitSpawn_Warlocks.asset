@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c682ac431076972cdfff15dac6cd4289, type: 3}
+  m_Name: BuildingData_UnitSpawn_Warlocks
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: d732bcea-e8f6-4785-926b-21e5e18c4eae
+  _addBuildingUpgrade: {fileID: 11400000, guid: 4291248f957a5fe459d58f315f4f5cde, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: c40af94dc1e667946bd0d8dfe43d555c, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 998eafa9b57d14546ad8a1d3a79ec4cf, type: 2}
+  _prefab: {fileID: 114722976284989730, guid: 16b762eb9c78b834cb553e8d88409577, type: 2}
+  _spawnUnit: {fileID: 11400000, guid: 81a6f2b3871ff7d428d88a00ee7d97dd, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 5
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules:
+      - {fileID: 11400000, guid: 2c6b7a183582e114d97c59053fb91200, type: 2}
+    _adjacentBuildingBonusTarget: {fileID: 11400000}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

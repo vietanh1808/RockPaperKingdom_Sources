@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 864f0d6dbe3990b37b9ee41a8e42f2f5, type: 3}
+  m_Name: Config_Energy
+  m_EditorClassIdentifier:
+  _energyItemData: {fileID: 11400000, guid: 210b11cb9f9339748b021b2ca6fbc8c0, type: 2}
+  _maxAmount: 30
+  _sessionPrice: 5
+  _recoverMinutesPerStage: 0f000000
+  _capacityExtensionItemData: {fileID: 11400000, guid: 59136d0b0afd26345b93d61b02e09cc2, type: 2}

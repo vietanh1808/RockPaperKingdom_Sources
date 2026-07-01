@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f978cdcd6cacb5360a6299e9f09d8b9a, type: 3}
+  m_Name: BuildingLevelUp_Tent_Spearman_Level_3
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _description:
+  _upgradeModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: c1ba019954008234fa5fda3bb9257c94, type: 2}
+    - {fileID: 11400000, guid: 081d1bcf2929859488d67faa2fe61145, type: 2}
+    - {fileID: 11400000, guid: bed779ab3736a784f82a471728477bd7, type: 2}

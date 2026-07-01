@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88ac56d1718628775e96fafede1e27f, type: 3}
+  m_Name: Purchase_Coins_Ads_2
+  m_EditorClassIdentifier:
+  _guid: 5bc54bd3-2760-42c9-884e-181c5ca8484a
+  _priceType: 3
+  _priceItemData: {fileID: 0}
+  _priceItemAmount: 0
+  _displayCurrencyAmount: 0
+  _productData: {fileID: 11400000, guid: cb51933f8c0f73346804421b06ea56ea, type: 2}
+  _cooldownTime:
+    _hours: 6
+    _minutes: 0
+    _seconds: 0
+  _availableAmount: 3
+  _maxPurchases: 0
+  _shopSlotData:
+    _title: Coins Reward
+    _icon: {fileID: 21300000, guid: ee9dad91c2627224ab99a82b2e54ad16, type: 2}
+  _placement: shop
+  _rewardType: 1
+  _rewardDisplayMode: 1
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 1000
+  _chestDataAmount:
+    _data: {fileID: 0}
+    _amount: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f978cdcd6cacb5360a6299e9f09d8b9a, type: 3}
+  m_Name: BuildingLevelUp_Tent_Skeleton_Archer_Level_3
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _description:
+  _upgradeModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 7b0a05e977e73b4448eb78f2b9604e77, type: 2}
+    - {fileID: 11400000, guid: 5451c201d502b5a40bc719e351c6fb76, type: 2}
+    - {fileID: 11400000, guid: e157937903f109f44a2b74f3eeadb137, type: 2}

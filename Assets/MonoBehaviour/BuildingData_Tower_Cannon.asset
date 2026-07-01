@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f26a5db2d793d590086f51335f6c0c2, type: 3}
+  m_Name: BuildingData_Tower_Cannon
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 05f795b3-b916-40c2-b8b7-5b9e3fd8e964
+  _addBuildingUpgrade: {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: c06fe0adc8f38874081f8aafa0293a29, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 6934214599f916b4288a04285000237b, type: 2}
+  _prefab: {fileID: 114371480918374456, guid: 71f7e9856187d4040ac2041e68138623, type: 2}
+  _towerData: {fileID: 11400000, guid: cdca3db100aca684698a5e0100391eee, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 0
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules: []
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f26a5db2d793d590086f51335f6c0c2, type: 3}
+  m_Name: BuildingData_Tower_Arrow
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: d00dc70f-69c9-4f8d-b637-b740f582da5d
+  _addBuildingUpgrade: {fileID: 11400000, guid: c593df47a3ae78b44a1874d7501f9334, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: ab9ea39d5e4e40b4284f67196fef8f9a, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 087603ee6d9a5994c970e1c191fa4dfc, type: 2}
+  _prefab: {fileID: 114419976485360090, guid: fb7bc6550389ec242b3279c5db3b9cf3, type: 2}
+  _towerData: {fileID: 11400000, guid: ec957117b7ca91d4c8e1e2828602f616, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 0
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules: []
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

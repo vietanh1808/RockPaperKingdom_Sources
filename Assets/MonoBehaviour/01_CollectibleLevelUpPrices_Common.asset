@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a362c5f67090db1c1a9d1d29340df8a, type: 3}
+  m_Name: 01_CollectibleLevelUpPrices_Common
+  m_EditorClassIdentifier:
+  _priceByLevel:
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 2500
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 4000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 8000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 12000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 16000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 20000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 24000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 28000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 32000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 36000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 40000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 44000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 48000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 52000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 56000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 60000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 64000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 68000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 72000
+    _materialAmounts: 0
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 76000
+    _materialAmounts: 0

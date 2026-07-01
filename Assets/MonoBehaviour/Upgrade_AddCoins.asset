@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97761b516fc6ec680aa23d3d7216fed9, type: 3}
+  m_Name: Upgrade_AddCoins
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 76e74d67-36ee-4b02-92f8-d8adf25cfe14
+  _icon: {fileID: 21300000, guid: 3e8ffb63c8040e84a9d94de7b255c80c, type: 2}
+  _name: Coins
+  _description: Money is Coins
+  _hint:
+  _maxUpgradesAmount: 99999999
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _reward:
+    _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+    _equipmentRarity: 0
+    _amount: 100

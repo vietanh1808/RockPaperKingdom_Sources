@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 237be8dc463a032213bcdae6d3264534, type: 3}
+  m_Name: Config_Arena
+  m_EditorClassIdentifier:
+  _tiers:
+  - {fileID: 11400000, guid: 8d518ed2fd47f8e4cbe9fd76c085832c, type: 2}
+  - {fileID: 11400000, guid: 00966e8f0b6a11146a2bf5c94c51afd5, type: 2}
+  - {fileID: 11400000, guid: 61563249a43ff2e4dbffc1d60f80a8cc, type: 2}
+  - {fileID: 11400000, guid: 99d0d9c4244530d45aab42d300c06228, type: 2}
+  - {fileID: 11400000, guid: 4764a953a2ad52b46adff4224a0d1da0, type: 2}
+  - {fileID: 11400000, guid: ba0c2fc6746d53742829cb3c906d7072, type: 2}
+  - {fileID: 11400000, guid: 115ef9b6753da514aa92fa01c6b36e0f, type: 2}
+  - {fileID: 11400000, guid: 7bd085996267d5441b011fb115772e2a, type: 2}
+  - {fileID: 11400000, guid: d8ce83f317c8a1547a9eea7a5712e410, type: 2}
+  _maxRounds: 20
+  _cardsPerRound: 030000000100000002000000010000000200000001000000010000000200000001000000020000000100000001000000020000000100000001000000020000000100000002000000
+  _firstFightStrategies:
+  - {fileID: 11400000, guid: 00b74b9d7c69cf340ad51524f1e1a76d, type: 2}
+  - {fileID: 11400000, guid: c8d6f3febecbebc489e020f3d83b25a1, type: 2}
+  - {fileID: 11400000, guid: 2306ca43d6a8b3c4b88eda5a763fa0b1, type: 2}
+  - {fileID: 11400000, guid: 10bdadaca2d472b40af9eab505445195, type: 2}
+  - {fileID: 11400000, guid: a4e1c776033b98241b487b74438e2975, type: 2}
+  _maxTickets: 5
+  _ticketRecoverMinutes: 60
+  _ticketItemData: {fileID: 11400000, guid: c89fcafaaaf40f04fa5ec8d43aa1b1bb, type: 2}
+  _stakeTokenSettings: {fileID: 11400000, guid: 0e510955d85c8664d9ce1049230e4a52, type: 2}

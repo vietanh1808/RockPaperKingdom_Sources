@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df3573c1091f20f0d3eec1e12fe6138a, type: 3}
+  m_Name: Hero Upgrade
+  m_EditorClassIdentifier:
+  _guid: 0c337e4f-8a3e-4fc8-8495-3ccfd6b6219a
+  _description: Upgrade Human
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 5
+  _requiredHero: {fileID: 11400000, guid: 2a6267cea0a62a4448dd1603fddd168b, type: 2}
+  _requiredLevelIndex: 1

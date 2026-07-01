@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f388deaa8767eb19f045958bb64b06ea, type: 3}
+  m_Name: Config_PlayerLevelUp
+  m_EditorClassIdentifier:
+  _levelUpDataByLevel:
+  - _experienceAmount: 1000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 210b11cb9f9339748b021b2ca6fbc8c0, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 899e5686c52744c41b075cf18fcd3735, type: 2}
+      _equipmentRarity: 0
+      _amount: 2
+  - _experienceAmount: 1700
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 210b11cb9f9339748b021b2ca6fbc8c0, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: dc141af1228c18745b647bc30484809c, type: 2}
+      _equipmentRarity: 0
+      _amount: 1
+  - _experienceAmount: 2900
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+  - _experienceAmount: 3000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+  - _experienceAmount: 10000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+  - _experienceAmount: 20000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 3
+  - _experienceAmount: 17000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 19000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 21000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 25000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 40000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 60000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 60000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 80000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 90000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5
+  - _experienceAmount: 100000
+    _rewards:
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+      _equipmentRarity: 0
+      _amount: 10
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _equipmentRarity: 0
+      _amount: 250
+    - _rewardType: 0
+      _inventoryItemData: {fileID: 11400000, guid: 8f6d8d7a16195ad4e9b3d23634cb862b, type: 2}
+      _equipmentRarity: 0
+      _amount: 5

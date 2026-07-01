@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366cfd4d4724a1f432c579468d30f36, type: 3}
+  m_Name: ItemData_UnitCard_Shield
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 0dd6fed3-ec5d-4bb9-92eb-03e5858854f8
+  _title: Shield
+  _description: Adds +8 HP to selected units
+  _icon: {fileID: 21300000, guid: 6926fd87093fc904fb46d499357fe5b2, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 1
+  _material: {fileID: 11400000, guid: f89a3fd0f6547f44dbcc27e9a5d9b0a5, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules: []
+  _unlockType: 10
+  _stageRequirement: 5
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 1
+  _upgradeUnitStats: []
+  _addBuildingUpgrade: {fileID: 11400000, guid: 3bc2ec2262d617644b852cee2a46b24e, type: 2}
+  _isFake: 0

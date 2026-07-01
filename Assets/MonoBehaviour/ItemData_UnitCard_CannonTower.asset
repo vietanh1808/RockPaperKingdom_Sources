@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366cfd4d4724a1f432c579468d30f36, type: 3}
+  m_Name: ItemData_UnitCard_CannonTower
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 4dd9c9cf-7307-41e8-9dbb-92da5a822564
+  _title: Cannon Tower
+  _description: Tower that fires explosive projectiles dealing area damage
+  _icon: {fileID: 21300000, guid: 88ab4f3a694c3c24cbfbf75de9993acf, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 0
+  _material: {fileID: 11400000, guid: d7a3916261d0b8149b1f67a7ba7cc067, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules: []
+  _unlockType: 10
+  _stageRequirement: 2
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats:
+  - {fileID: 11400000, guid: 5fc8ff5e998f1694f9bdb52926868e8b, type: 2}
+  _addBuildingUpgrade: {fileID: 11400000, guid: 9b246812cd58096439503673dfca7b18, type: 2}
+  _isFake: 0

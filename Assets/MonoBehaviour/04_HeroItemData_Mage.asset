@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e7f593346045b7516fb3fa188cf18d, type: 3}
+  m_Name: 04_HeroItemData_Mage
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: c7cfbe18-fe85-4b1c-8047-499e8ae8da3a
+  _title: Mage
+  _description:
+  _icon: {fileID: 21300000, guid: 154ff55bf227a7d42bce0d2f63e612c1, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 0
+  _material: {fileID: 11400000, guid: 008d4d86a0123d94597895626974255e, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: c781650511f9d474b8d3c2d04378c23d, type: 2}
+    - {fileID: 11400000, guid: 763ed29c38453454d8b393a28df47280, type: 2}
+    - {fileID: 11400000, guid: f7d9c9cfc9d3ce443a3de312523afe51, type: 2}
+    - {fileID: 11400000, guid: d689b8a2c90000941ac1aec284b2c0cb, type: 2}
+  _unlockType: 10
+  _stageRequirement: 4
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats:
+  - {fileID: 11400000, guid: cf0812a8bf90f9b42a234864b96bdcbc, type: 2}
+  - {fileID: 11400000, guid: 5fc8ff5e998f1694f9bdb52926868e8b, type: 2}
+  _attachedUnitCards:
+  - {fileID: 11400000, guid: dbb41cb79583ac944ae37240fc750087, type: 2}
+  - {fileID: 11400000, guid: 8c44b3fbb11518947b9a6f2f634f0358, type: 2}
+  - {fileID: 11400000, guid: 3e8b2649708ca0642b6259e1438b2324, type: 2}
+  - {fileID: 11400000, guid: da5e43c42676f6e41a59ed17f7b239f7, type: 2}
+  - {fileID: 11400000, guid: af1c4b16a4965eb41a6c8fa1b32b64a4, type: 2}
+  - {fileID: 11400000, guid: 923979fd9ef05244c9bd7177e8d99e8e, type: 2}
+  - {fileID: 11400000, guid: 5b9f79e90aecb92409bf895910260502, type: 2}
+  - {fileID: 11400000, guid: f1e50e84cf0623f43846975f44ac4c3d, type: 2}
+  _unlockedUnitCards:
+  - {fileID: 11400000, guid: dbb41cb79583ac944ae37240fc750087, type: 2}
+  - {fileID: 11400000, guid: da5e43c42676f6e41a59ed17f7b239f7, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366cfd4d4724a1f432c579468d30f36, type: 3}
+  m_Name: ItemData_UnitCard_Tower_Shuriken
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 33d54df5-ec4d-401b-93b8-9bdc99fa4c59
+  _title: Shuriken tower
+  _description: Gain +1 shuriken for every 5 shards you own
+  _icon: {fileID: 21300000, guid: 3ce03969d4e0e444581672a240cc2d10, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 1
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _rarity: 1
+  _material: {fileID: 11400000, guid: 3f98be770a1d6da498fc4192145fbfd7, type: 2}
+  _upgradePlayerStats: []
+  _levelRequirements: {fileID: 11400000, guid: ac4c22766cd80334ebb31cefc63b2b74, type: 2}
+  _modifiers:
+    _parent: {fileID: 11400000}
+    _modules: []
+  _unlockType: 1
+  _stageRequirement: 0
+  _unlockInventoryItem: {fileID: 0}
+  _unlockInventoryItemAmount: 0
+  _dailyRewardDayRequirement: 0
+  _isMaxLevel: 0
+  _upgradeUnitStats:
+  - {fileID: 11400000, guid: 5fc8ff5e998f1694f9bdb52926868e8b, type: 2}
+  _addBuildingUpgrade: {fileID: 11400000, guid: 7151a142d07f23645baeaa038e0595cb, type: 2}
+  _isFake: 0

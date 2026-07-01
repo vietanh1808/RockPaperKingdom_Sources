@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3065895a2c5d25f6aaea7015b16c20c5, type: 3}
+  m_Name: Feature_Heroes
+  m_EditorClassIdentifier:
+  _guid: b5f1d8a4-99d3-43e8-8365-1587f911186e
+  _title: Collection
+  _icon: {fileID: 21300000, guid: d6f5430c5442ce2488825983e01f9621, type: 2}
+  _featureUnlockType: 0
+  _showPopup: 0
+  _forceEventQueueInFront: 1
+  _levelIndex: 1
+  _stageIndex: 0

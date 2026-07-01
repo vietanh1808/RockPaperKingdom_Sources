@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88ac56d1718628775e96fafede1e27f, type: 3}
+  m_Name: Purchase_FastPatrol
+  m_EditorClassIdentifier:
+  _guid: 876d3a0e-cd30-4cc6-9e44-e0896ed96218
+  _priceType: 3
+  _priceItemData: {fileID: 0}
+  _priceItemAmount: 0
+  _displayCurrencyAmount: 0
+  _productData: {fileID: 11400000, guid: e3d872c6d4db77b4480255e9f95cd655, type: 2}
+  _cooldownTime:
+    _hours: 24
+    _minutes: 0
+    _seconds: 0
+  _availableAmount: 3
+  _maxPurchases: 0
+  _shopSlotData:
+    _title: Quick Patrol
+    _icon: {fileID: 21300000, guid: 95fe51ad3972b4c44997fc2f6394c642, type: 2}
+  _placement: patrol
+  _rewardType: 1
+  _rewardDisplayMode: 2
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 5e9a5260a9fa2ab45b119dd48e434db5, type: 2}
+    _equipmentRarity: 0
+    _amount: 8
+  _chestDataAmount:
+    _data: {fileID: 0}
+    _amount: 0

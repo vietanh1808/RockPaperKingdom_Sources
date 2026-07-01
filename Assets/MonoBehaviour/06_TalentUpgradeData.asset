@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbb2aabd7b7c1d7aeb295a29e935225, type: 3}
+  m_Name: 06_TalentUpgradeData
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: b99a7f72-6f0c-42f3-9753-350e97673c70
+  _icon: {fileID: 21300000, guid: a1fbe790e6c41ec4da1242876b4ed113, type: 2}
+  _rarityType: 1
+  _assetModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: ec5469cf86c7c7843ba523eeb873d450, type: 2}
+    - {fileID: 11400000, guid: 76f960b29ba041c43ae5e106059977f4, type: 2}
+    - {fileID: 11400000, guid: 04b70f3a52b1e644691e9ea09931fb29, type: 2}
+    - {fileID: 11400000, guid: be0c0e28a9f3d204da557883926a5c8c, type: 2}
+    - {fileID: 11400000, guid: a4572c673408756448f246f76f3f4f8f, type: 2}
+    - {fileID: 11400000, guid: d4f4273616c46a9409c26ffe55c6aed2, type: 2}
+    - {fileID: 11400000, guid: 38ba9dbd378d1c547a29f2de387ed6c7, type: 2}
+    - {fileID: 11400000, guid: 149cec1444d484d46bf4b0a298aab10e, type: 2}
+    - {fileID: 11400000, guid: 7e4d385b39e8c844bbe6e104b66a41f5, type: 2}
+    - {fileID: 11400000, guid: 4f047a4ce1a5dee40b9d806c782e6296, type: 2}
+  _modifiersAmount: 10
+  _multiplierPerLevel: 0.04

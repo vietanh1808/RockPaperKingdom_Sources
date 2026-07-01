@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88ac56d1718628775e96fafede1e27f, type: 3}
+  m_Name: PurchaseData_Energy_Ads
+  m_EditorClassIdentifier:
+  _guid: d3c42ddf-5370-4703-bbaa-ca9537a9c97c
+  _priceType: 3
+  _priceItemData: {fileID: 0}
+  _priceItemAmount: 0
+  _displayCurrencyAmount: 0
+  _productData: {fileID: 11400000, guid: e3ef42af4afab0d46aff164aa1690827, type: 2}
+  _cooldownTime:
+    _hours: 2
+    _minutes: 0
+    _seconds: 0
+  _availableAmount: 3
+  _maxPurchases: 0
+  _shopSlotData:
+    _title: 5 Energy
+    _icon: {fileID: 21300000, guid: dc3b2ba89d01473469f2d44ceed3d26f, type: 2}
+  _placement: purchase_energy
+  _rewardType: 1
+  _rewardDisplayMode: 1
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 210b11cb9f9339748b021b2ca6fbc8c0, type: 2}
+    _equipmentRarity: 0
+    _amount: 5
+  _chestDataAmount:
+    _data: {fileID: 0}
+    _amount: 0

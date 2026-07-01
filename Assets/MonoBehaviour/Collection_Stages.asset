@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f6843dd26fad04d7fd02a910df67e8c, type: 3}
+  m_Name: Collection_Stages
+  m_EditorClassIdentifier:
+  _stages:
+  - {fileID: 11400000, guid: 13926db5f8757904c8d5d3a06587452a, type: 2}
+  - {fileID: 11400000, guid: a79e9d7136a466b4c9164661f20f6fc4, type: 2}
+  - {fileID: 11400000, guid: 07c312a907a8bef4ebf27e41d9744d4f, type: 2}
+  - {fileID: 11400000, guid: 094358efbd0a041479920d20e3f1661a, type: 2}
+  - {fileID: 11400000, guid: 3de824eff3e729f49b8529bcc4c3d7f0, type: 2}
+  - {fileID: 11400000, guid: 229757f1f255d5349894bfa243ea7948, type: 2}
+  - {fileID: 11400000, guid: a56f0472c3bc0db42b86db4ed33a75a3, type: 2}
+  - {fileID: 11400000, guid: 81272d14a9b5bcc46a7e35eb2b3a2729, type: 2}
+  - {fileID: 11400000, guid: 942e003c714e7f449ba99a64db26cb30, type: 2}
+  - {fileID: 11400000, guid: 04d33e355566ab6428239f749e3882a5, type: 2}
+  - {fileID: 11400000, guid: 1302ca4ae5ccfbe4c8c7e123e6d228ae, type: 2}
+  - {fileID: 11400000, guid: 18759789efb9576488ece5577e0eb6bc, type: 2}
+  - {fileID: 11400000, guid: e3370718a1a1d894a8f42c0d14d79f5f, type: 2}
+  - {fileID: 11400000, guid: 41e2f2ee1999b0b4c8febf061f4fe488, type: 2}
+  - {fileID: 11400000, guid: c27e8ec401062034ea88e430ce4ac2de, type: 2}
+  - {fileID: 11400000, guid: 5735a71379d661d468c4a02a423db91f, type: 2}
+  - {fileID: 11400000, guid: 381259eb575340c4f926624a0f1c0875, type: 2}
+  - {fileID: 11400000, guid: 0e8b3c6e410a84a498787c6c2ee06aa9, type: 2}
+  - {fileID: 11400000, guid: b940fce737edb2e45842e4aa9cd9f3e1, type: 2}
+  - {fileID: 11400000, guid: 90c4fa334806a7844a01d46f94545a24, type: 2}
+  - {fileID: 11400000, guid: 983244632bfb96545ab3923b838cf364, type: 2}
+  - {fileID: 11400000, guid: b595d9f5c39a1b945817e546cb3aec21, type: 2}
+  - {fileID: 11400000, guid: eea910c00d56b6d46b67adcaeaee973a, type: 2}
+  - {fileID: 11400000, guid: 314080c531e9b7d429c7fe362623bea6, type: 2}
+  - {fileID: 11400000, guid: fda2a3d3884385248ae6a4c88b7b3668, type: 2}
+  - {fileID: 11400000, guid: 896b1eca7b2d64f488b3aa9c4637d200, type: 2}
+  - {fileID: 11400000, guid: 8d56bfe93bddad942af43417d596ec21, type: 2}
+  - {fileID: 11400000, guid: 574c54120e49f3f44b17b0e7dbfa0cd4, type: 2}
+  - {fileID: 11400000, guid: 1b66ef37e9575bc4bb3fba9b6d52e3a6, type: 2}
+  - {fileID: 11400000, guid: 81c2d74e1efbfb1489d6f5cde8b9b9eb, type: 2}
+  - {fileID: 11400000, guid: c3082bbfbdbe67d40906c37d2646b3ba, type: 2}
+  - {fileID: 11400000, guid: a9a55f7b42311ce49bdb02c5c498c469, type: 2}
+  - {fileID: 11400000, guid: 475bbaabddf606b4bab603a66f11d141, type: 2}
+  - {fileID: 11400000, guid: b7149d51478f8a649b50fdb1be31be27, type: 2}
+  - {fileID: 11400000, guid: 258e841037ceb42488f6e0c165024306, type: 2}
+  - {fileID: 11400000, guid: bee5863077717ab499d4aa6808dfab96, type: 2}
+  - {fileID: 11400000, guid: fb7a101d5fa00ff43b3b7f9ecb9f4b4f, type: 2}
+  - {fileID: 11400000, guid: 49571ebc73b63d54dbc97d36fba7b931, type: 2}
+  - {fileID: 11400000, guid: ee83c9ffa4293344eadceb7677e3b6bd, type: 2}
+  - {fileID: 11400000, guid: c7e8a7c137b043d40b27873a13942e7b, type: 2}
+  - {fileID: 11400000, guid: c9fdbf38ae4ad304ba4565d5b146289b, type: 2}
+  - {fileID: 11400000, guid: 88cd06ca25db9b34aa76176a087d5064, type: 2}
+  - {fileID: 11400000, guid: 6eb9569e2379d4441bec45458984f229, type: 2}
+  - {fileID: 11400000, guid: 3aab816f67592b74f8439c18bbab6632, type: 2}
+  - {fileID: 11400000, guid: 4c2a0f6636802b149a313b337d3aa92d, type: 2}
+  - {fileID: 11400000, guid: fefab85d7f5dd6a41b89832878306a03, type: 2}
+  - {fileID: 11400000, guid: 36f9ef7eaf305704881b0495bac80665, type: 2}
+  - {fileID: 11400000, guid: 467ddd45b772bee438b98e986c3a8f7f, type: 2}
+  - {fileID: 11400000, guid: bfba0127f681eff42afe1815ca4c5397, type: 2}
+  - {fileID: 11400000, guid: 5fe8aaee663466d4ba99cfaf31257c22, type: 2}
+  - {fileID: 11400000, guid: edca1e5a5b572c242b55f78971cd309b, type: 2}
+  - {fileID: 11400000, guid: e3d45a8f958c569468ca2c17dc81179e, type: 2}
+  - {fileID: 11400000, guid: 935e68c619ffe8647b21e4a74412a843, type: 2}
+  - {fileID: 11400000, guid: 1fcdc81bd10d6ef469f1b3b7c1915e89, type: 2}
+  - {fileID: 11400000, guid: e22a74fca6101634f9a883ac38f143f6, type: 2}
+  - {fileID: 11400000, guid: df63f9791fe880a44a80c37d2eaad4ee, type: 2}
+  - {fileID: 11400000, guid: b0084e01088996e4daa4b7d2e02f0c24, type: 2}
+  - {fileID: 11400000, guid: 1a60f7f730ff9564888290df166c4dcd, type: 2}
+  - {fileID: 11400000, guid: dbdcef0eb59068241a4c90e39154518d, type: 2}
+  - {fileID: 11400000, guid: 0657b808ec0f5c8409863b2b7b29efef, type: 2}
+  _loopedStages:
+  - {fileID: 11400000, guid: 983244632bfb96545ab3923b838cf364, type: 2}
+  - {fileID: 11400000, guid: b595d9f5c39a1b945817e546cb3aec21, type: 2}
+  - {fileID: 11400000, guid: eea910c00d56b6d46b67adcaeaee973a, type: 2}
+  - {fileID: 11400000, guid: 314080c531e9b7d429c7fe362623bea6, type: 2}
+  - {fileID: 11400000, guid: fda2a3d3884385248ae6a4c88b7b3668, type: 2}
+  - {fileID: 11400000, guid: 896b1eca7b2d64f488b3aa9c4637d200, type: 2}
+  - {fileID: 11400000, guid: 8d56bfe93bddad942af43417d596ec21, type: 2}
+  - {fileID: 11400000, guid: 574c54120e49f3f44b17b0e7dbfa0cd4, type: 2}
+  - {fileID: 11400000, guid: 1b66ef37e9575bc4bb3fba9b6d52e3a6, type: 2}
+  - {fileID: 11400000, guid: 81c2d74e1efbfb1489d6f5cde8b9b9eb, type: 2}
+  - {fileID: 11400000, guid: c3082bbfbdbe67d40906c37d2646b3ba, type: 2}
+  - {fileID: 11400000, guid: a9a55f7b42311ce49bdb02c5c498c469, type: 2}
+  - {fileID: 11400000, guid: 475bbaabddf606b4bab603a66f11d141, type: 2}
+  - {fileID: 11400000, guid: b7149d51478f8a649b50fdb1be31be27, type: 2}
+  - {fileID: 11400000, guid: 258e841037ceb42488f6e0c165024306, type: 2}
+  - {fileID: 11400000, guid: bee5863077717ab499d4aa6808dfab96, type: 2}
+  - {fileID: 11400000, guid: fb7a101d5fa00ff43b3b7f9ecb9f4b4f, type: 2}
+  - {fileID: 11400000, guid: 49571ebc73b63d54dbc97d36fba7b931, type: 2}
+  - {fileID: 11400000, guid: ee83c9ffa4293344eadceb7677e3b6bd, type: 2}
+  - {fileID: 11400000, guid: c7e8a7c137b043d40b27873a13942e7b, type: 2}
+  - {fileID: 11400000, guid: c9fdbf38ae4ad304ba4565d5b146289b, type: 2}
+  - {fileID: 11400000, guid: 88cd06ca25db9b34aa76176a087d5064, type: 2}
+  - {fileID: 11400000, guid: 6eb9569e2379d4441bec45458984f229, type: 2}
+  - {fileID: 11400000, guid: 3aab816f67592b74f8439c18bbab6632, type: 2}
+  - {fileID: 11400000, guid: 4c2a0f6636802b149a313b337d3aa92d, type: 2}
+  - {fileID: 11400000, guid: fefab85d7f5dd6a41b89832878306a03, type: 2}
+  - {fileID: 11400000, guid: 36f9ef7eaf305704881b0495bac80665, type: 2}
+  - {fileID: 11400000, guid: 467ddd45b772bee438b98e986c3a8f7f, type: 2}
+  - {fileID: 11400000, guid: bfba0127f681eff42afe1815ca4c5397, type: 2}
+  - {fileID: 11400000, guid: 5fe8aaee663466d4ba99cfaf31257c22, type: 2}
+  _hardStages:
+  - {fileID: 11400000, guid: edca1e5a5b572c242b55f78971cd309b, type: 2}
+  - {fileID: 11400000, guid: e3d45a8f958c569468ca2c17dc81179e, type: 2}
+  - {fileID: 11400000, guid: 935e68c619ffe8647b21e4a74412a843, type: 2}
+  - {fileID: 11400000, guid: 1fcdc81bd10d6ef469f1b3b7c1915e89, type: 2}
+  - {fileID: 11400000, guid: e22a74fca6101634f9a883ac38f143f6, type: 2}
+  - {fileID: 11400000, guid: df63f9791fe880a44a80c37d2eaad4ee, type: 2}
+  - {fileID: 11400000, guid: b0084e01088996e4daa4b7d2e02f0c24, type: 2}
+  - {fileID: 11400000, guid: 1a60f7f730ff9564888290df166c4dcd, type: 2}
+  - {fileID: 11400000, guid: dbdcef0eb59068241a4c90e39154518d, type: 2}
+  - {fileID: 11400000, guid: 0657b808ec0f5c8409863b2b7b29efef, type: 2}
+  _hardLoopedStages:
+  - {fileID: 11400000, guid: 1a60f7f730ff9564888290df166c4dcd, type: 2}
+  - {fileID: 11400000, guid: dbdcef0eb59068241a4c90e39154518d, type: 2}
+  - {fileID: 11400000, guid: 0657b808ec0f5c8409863b2b7b29efef, type: 2}
+  _csvOverview: "Category,Stage 1,Stage 2,Stage 3,Stage 4,Stage 5,Stage 6,Stage 7,Stage 8,Stage 9,Stage 10,Stage 11,Stage 12,Stage 13,Stage 14,Stage 15,Stage 16,Stage 17,Stage 18,Stage 19,Stage 20,Stage 21,Stage 22,Stage 23,Stage 24,Stage 25,Stage 26,Stage 27,Stage 28,Stage 29,Stage 30,Stage 31,Stage 32,Stage 33,Stage 34,Stage 35,Stage 36,Stage 37,Stage 38,Stage 39,Stage 40,Stage 41,Stage 42,Stage 43,Stage 44,Stage 45,Stage 46,Stage 47,Stage 48,Stage 49,Stage 50\nRegular Units,\"Warrior; Tank\",\"Warrior; Archer; Tank\",\"Villager; Tank; Archer; Troll; Warrior; Skeleton_Warrior\",\"Warrior; Fire Mage; Tank; Archer\",\"Troll; Villager; Tank; Warrior; Archer; Fire Mage\",\"Villager; Warrior; Assassin; Archer; Troll\",\"Reflect; Warrior; Archer; Tank; Troll\",\"Villager; Troll; Archer; Warrior; Tank; Fire Mage\",\"Reflect; Villager; Archer; Warrior; King\",\"King; Warrior; Archer; Assassin; Fire Mage\",\"Reflect; Warrior; Villager; Tank; Troll\",\"Spearman; Villager; Warrior; Archer; Tank\",\"Fire Mage; Skeleton_Warrior; Reflect; Warrior\",\"Archer; Assassin; Warrior; King; Reflect\",\"Spearman; Villager; Troll; Tank; Warrior\",\"Reflect; Warrior; Tank; Villager; Troll\",\"Assassin; Villager; Warrior; Archer\",\"Fire Mage; Villager; Reflect; Warrior\",\"Archer; Spearman; Warrior; Reflect; King\",\"Reflect; Villager; Troll; Warrior; Tank\",\"Reflect; DemonWarrior; Villager; Tank\",\"Assassin; Villager; DemonWarrior; Spearman\",\"Fire Mage; Villager; Reflect; DemonWarrior\",\"DemonArcher; DemonWarrior; Assassin; King; Reflect\",\"Villager; DemonWarrior; Troll; Spearman; Tank\",\"Reflect; Villager; DemonWarrior; Tank\",\"Assassin; Villager; DemonWarrior; DemonArcher\",\"Fire Mage; Villager; Reflect; DemonWarrior\",\"DemonArcher; Assassin; DemonWarrior; King; Reflect\",\"Reflect; Villager; Troll; DemonWarrior; Tank\",\"Skeleton_Warrior; Villager; Warrior; Tank; Troll\",\"Assassin; Villager; Warrior; Skeleton_Archer\",\"Fire Mage; Villager; Reflect; Warrior\",\"Skeleton_Archer; Warrior; Assassin; King; Reflect\",\"Reflect; Villager; Troll; Warrior; Tank\",\"Reflect; Villager; Tank; Skeleton_Warrior; Troll\",\"Assassin; Villager; Warrior; Skeleton_Archer\",\"Fire Mage; Villager; Reflect; Warrior\",\"Skeleton_Archer; Skeleton_Warrior; Assassin; King; Reflect\",\"Reflect; Villager; Troll; Warrior; Tank\",\"Reflect; Warrior; Villager; Tank\",\"Assassin; Villager; Warrior; Spearman\",\"Fire Mage; Villager; Reflect; Warrior\",\"Archer; Warrior; Assassin; King; Reflect\",\"Villager; Warrior; Troll; Spearman; Tank\",\"Reflect; Villager; Warrior; Tank\",\"Assassin; Villager; Warrior; Archer\",\"Fire Mage; Villager; Reflect; Warrior\",\"Archer; Assassin; Warrior; King; Reflect\",\"Reflect; Villager; Troll; Warrior; Tank\"\nMini-Bosses,\"Tank\",\"Boss Archer\",\"Villager\",\"Death; Boss Archer\",\"Tank\",\"Boss Archer; Commander\",\"Boss Archer; Villager\",\"Boss Archer; Tank\",\"Boss Archer; Tank\",\"Boss Archer; Tank\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Skeleton_Archer; Skeleton_Tank\",\"Skeleton_Archer; Villager\",\"Skeleton_Tank; Villager\",\"Skeleton_Archer; Villager\",\"Skeleton_Tank; Villager\",\"Skeleton_Archer; Skeleton_Tank\",\"Skeleton_Archer\",\"Boss Archer; Villager\",\"Skeleton_Archer; Villager\",\"Skeleton_Archer; Villager\",\"Skeleton_Archer\",\"Skeleton_Archer; DemonTank\",\"Skeleton_Archer; DemonTank\",\"Skeleton_Archer; Villager\",\"Skeleton_Archer; Villager\",\"Skeleton_Archer; Villager\",\"Skeleton_Archer; DemonTank\",\"Skeleton_Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer\",\"Boss Archer\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer\",\"Boss Archer\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer\",\"Boss Archer; Tank\",\"Boss Archer; Tank\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer; Villager\",\"Boss Archer; Tank\",\"Boss Archer; Villager\"\nBosses,\"\",\"Archer\",\"Necromancer\",\"Shaman; Archer\",\"Archer; Troll\",\"FireMage; Archer\",\"FireMage; Troll_Doublehead\",\"Archer; Troll\",\"Necromancer; Troll\",\"Archer; Troll\",\"FireMage; Troll_Doublehead\",\"PriestTank; Shaman\",\"Shaman; FireMage\",\"Archer; PriestTank\",\"Necromancer; PriestArcher\",\"PriestArcher; PriestTank\",\"FireMage; Troll_Doublehead\",\"PriestArcher; PriestTank\",\"PriestArcher; PriestTank\",\"PriestArcher; PriestTank\",\"FireMage; Troll_Doublehead\",\"Archer; Troll\",\"Archer; Necromancer\",\"Archer; Troll\",\"Archer\",\"Archer; Troll\",\"Archer; Troll\",\"Archer; Necromancer\",\"Archer; Troll\",\"Archer; Necromancer\",\"Archer; Necromancer\",\"Necromancer; Troll\",\"Archer; Necromancer\",\"Archer; Necromancer\",\"Archer; Troll\",\"Archer; Necromancer\",\"Troll\",\"Archer; Necromancer\",\"Archer; Necromancer\",\"Archer; Troll\",\"FireMage; Troll_Doublehead\",\"Archer; Troll\",\"Archer; Necromancer\",\"Archer; Troll\",\"Archer\",\"Archer; Troll\",\"Archer; Troll\",\"Archer; Necromancer\",\"Archer; Troll\",\"Archer; Necromancer\"\n"
+  _csvNewUnitsOverview: "Category,Stage 1,Stage 2,Stage 3,Stage 4,Stage 5,Stage 6,Stage 7,Stage 8,Stage 9,Stage 10,Stage 11,Stage 12,Stage 13,Stage 14,Stage 15,Stage 16,Stage 17,Stage 18,Stage 19,Stage 20,Stage 21,Stage 22,Stage 23,Stage 24,Stage 25,Stage 26,Stage 27,Stage 28,Stage 29,Stage 30,Stage 31,Stage 32,Stage 33,Stage 34,Stage 35,Stage 36,Stage 37,Stage 38,Stage 39,Stage 40,Stage 41,Stage 42,Stage 43,Stage 44,Stage 45,Stage 46,Stage 47,Stage 48,Stage 49,Stage 50\nNew Regular Units,\"Warrior; Tank\",\"Archer\",\"Villager; Troll; Skeleton_Warrior\",\"Fire Mage\",\"\",\"Assassin\",\"Reflect\",\"\",\"King\",\"\",\"\",\"Spearman\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"DemonWarrior\",\"\",\"\",\"DemonArcher\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"Skeleton_Archer\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\nNew Mini-Bosses,\"Tank\",\"Boss Archer\",\"Villager\",\"Death\",\"\",\"Commander\",\"\",\"\",\"\",\"\",\"\",\"\",\"Skeleton_Archer; Skeleton_Tank\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"DemonTank\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\nNew Bosses,\"\",\"Archer\",\"Necromancer\",\"Shaman\",\"Troll\",\"FireMage\",\"Troll_Doublehead\",\"\",\"\",\"\",\"\",\"PriestTank\",\"\",\"\",\"PriestArcher\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n"

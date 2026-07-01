@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525b91a2b2dc671f39d5a90645b543e9, type: 3}
+  m_Name: Equipment_Amulet_Owl
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 86e28a51-95ae-4b31-8830-694b02837e90
+  _title: Owl
+  _description: An amulet adorned with an owl, representing wisdom and foresight.
+  _icon: {fileID: 21300000, guid: c15181d3b6bdfb548b2d40441c12e03a, type: 2}
+  _background: {fileID: 0}
+  _ignoreLionAnalytics: 0
+  _lionAnalyticsProductType: 0
+  _lionAnalyticsType:
+  _lionAnalyticsTitle:
+  _equipmentTypeData: {fileID: 11400000, guid: dfd83e7b0862d274e89663e5ac0b56ef, type: 2}
+  _mainStatData: {fileID: 11400000, guid: edaac9f9be9b4db45bc626edb77a9d9c, type: 2}
+  _equipmentModifiers:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: 6acd685c18a80e447985bbdf3cc05c16, type: 2}
+    - {fileID: 11400000, guid: 01868c13aaaaed34ead4b351496c29f6, type: 2}
+    - {fileID: 11400000, guid: 55941b637056d2342b3a0f5b917a1e88, type: 2}

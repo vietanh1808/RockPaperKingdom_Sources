@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f79ec8b5fa03b148facec5da404abd6, type: 3}
+  m_Name: BossChestUpgrade_AddMysteryCards
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: e6e9c8d2-97d1-481d-87c3-fd406108a6e8
+  _icon: {fileID: 21300000, guid: 6c259a4f680cb044fbb9264b5539c6fc, type: 2}
+  _name: Mystery Cards
+  _description: Add 2 mystery cards
+  _hint:
+  _maxUpgradesAmount: 100
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _inventoryItemData: {fileID: 11400000, guid: 54cf94f9ae573004086bb97029b0ac91, type: 2}
+  _amount: 2

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d012254e2d7da88a57b060c2797c1737, type: 3}
+  m_Name: 3_EquipmentLevelUpPrices_Rare
+  m_EditorClassIdentifier:
+  _priceByLevel:
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 1000
+    _materialAmounts: 1
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 2000
+    _materialAmounts: 2
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 3000
+    _materialAmounts: 4
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 4000
+    _materialAmounts: 6
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 5000
+    _materialAmounts: 6
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 6000
+    _materialAmounts: 6
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 7000
+    _materialAmounts: 7
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 8000
+    _materialAmounts: 8
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 9000
+    _materialAmounts: 9
+  - _price:
+    - _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 10000
+    _materialAmounts: 10

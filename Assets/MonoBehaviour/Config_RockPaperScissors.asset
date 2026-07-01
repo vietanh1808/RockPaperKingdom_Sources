@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 610d78361f1b4548af6f89039d9730cc, type: 3}
+  m_Name: Config_RockPaperScissors
+  m_EditorClassIdentifier:
+  _winWeight: 55
+  _drawWeight: 10
+  _loseWeight: 23
+  _outcomeRewards:
+  - _outcomeType: 2
+    _rewardItem: {fileID: 11400000, guid: 3b2d4eec790f62a4989b3726c76a3a25, type: 2}
+    _rewardAmount: 1
+  - _outcomeType: 1
+    _rewardItem: {fileID: 11400000, guid: 140067112b943b6478cda27f18c82c2c, type: 2}
+    _rewardAmount: 3
+  - _outcomeType: 3
+    _rewardItem: {fileID: 11400000, guid: 54cf94f9ae573004086bb97029b0ac91, type: 2}
+    _rewardAmount: 1
+  _outcomeWeights:
+  - _outcomeType: 2
+    _weight:
+      _weight: 80
+      _percent: 0.7407407
+      _cumulativePercent: 0.7407407
+  - _outcomeType: 1
+    _weight:
+      _weight: 3
+      _percent: 0.027777778
+      _cumulativePercent: 0.7685185
+  - _outcomeType: 3
+    _weight:
+      _weight: 25
+      _percent: 0.23148148
+      _cumulativePercent: 1
+  _maxGameplayCardsPerSession: 1
+  _mysteryCardGuarantees:
+  - _byWaveIndex: 9
+    _minimumCards: 1
+  - _byWaveIndex: 14
+    _minimumCards: 2

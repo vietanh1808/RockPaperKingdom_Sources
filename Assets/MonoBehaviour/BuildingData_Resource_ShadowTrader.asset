@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 797e4152c09d71f909ddd0b283684707, type: 3}
+  m_Name: BuildingData_Resource_ShadowTrader
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 4799ae3e-f95a-45de-985d-86ce06ae3b83
+  _addBuildingUpgrade: {fileID: 11400000, guid: 2661526918e295a42aef02551b5c293a, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 0}
+  _level3LevelUp: {fileID: 0}
+  _prefab: {fileID: 114162872203288405, guid: 40e6e005e511b434a84efd63306be57c, type: 2}
+  _inventoryItemData: {fileID: 11400000, guid: 140067112b943b6478cda27f18c82c2c, type: 2}
+  _amount: 1

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88ac56d1718628775e96fafede1e27f, type: 3}
+  m_Name: Purchase_VIPPack
+  m_EditorClassIdentifier:
+  _guid: 380db167-6492-47af-9f33-33d6ae77fa37
+  _priceType: 2
+  _priceItemData: {fileID: 0}
+  _priceItemAmount: 0
+  _displayCurrencyAmount: 0
+  _productData: {fileID: 11400000, guid: fc0456374451d04438cf28e87239f0c2, type: 2}
+  _cooldownTime:
+    _hours: 0
+    _minutes: 0
+    _seconds: 0
+  _availableAmount: 1
+  _maxPurchases: 0
+  _shopSlotData:
+    _title: VIP Pack
+    _icon: {fileID: 21300000, guid: fe278d9ab33ef19428eb2ea629a27f4c, type: 2}
+  _placement: vip_pack_popup
+  _rewardType: 1
+  _rewardDisplayMode: 3
+  _rewards:
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 6e3ec406fdb0e9d4bb6a556312cf69b8, type: 2}
+    _equipmentRarity: 0
+    _amount: 1
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 472cd47ff654c3d469b776e6e823e286, type: 2}
+    _equipmentRarity: 0
+    _amount: 3
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 4d468906409eba6448636ec82256ee22, type: 2}
+    _equipmentRarity: 0
+    _amount: 1
+  - _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 59136d0b0afd26345b93d61b02e09cc2, type: 2}
+    _equipmentRarity: 0
+    _amount: 20
+  _chestDataAmount:
+    _data: {fileID: 0}
+    _amount: 0

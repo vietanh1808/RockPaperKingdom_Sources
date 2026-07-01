@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcdda791a289ad5a226877008f573f8, type: 3}
+  m_Name: Upgrade_AddBuilding_Tent_Slingers
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: ec58ec46-9e0c-42e6-afc8-31324929bf97
+  _icon: {fileID: 21300000, guid: faf8b7da5bb31bf42a7dcdeb63adc3c5, type: 2}
+  _name: Slinger
+  _description: Throws multiple knives at once
+  _hint:
+  _maxUpgradesAmount: 1000
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _baseBuildingData: {fileID: 11400000, guid: b8c962f8dc425894a811ed90cce35627, type: 2}

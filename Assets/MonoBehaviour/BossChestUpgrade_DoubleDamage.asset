@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d16b2dd5afd89d47b6ad5eb6af9907b2, type: 3}
+  m_Name: BossChestUpgrade_DoubleDamage
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: b1e9de67-9554-44a0-b96f-162dc5086456
+  _icon: {fileID: 21300000, guid: 5fccc137ad57351449285452e9c7e4fe, type: 2}
+  _name: Damage Rune
+  _description: Double DMG for spawned units
+  _hint:
+  _maxUpgradesAmount: 100
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _cellsProviderType: 0
+  _targetType: 1
+  _specificBuildingData: {fileID: 0}
+  _upgradeModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: c0aa106cadd93c34e89e92f3fb82652b, type: 2}

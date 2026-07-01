@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05694ada548d12be6e2aab58c2000106, type: 3}
+  m_Name: Config_PlayerUpgrades
+  m_EditorClassIdentifier:
+  _upgrades:
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 3
+    _modifier: {fileID: 11400000, guid: fcdc05c42d2fc134fbe47a37f4bf0163, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 3
+    _modifier: {fileID: 11400000, guid: e25f2e1f6701e774187b5d28c9806d22, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 1000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 3
+    _modifier: {fileID: 11400000, guid: b13b5c771ab6f184eb939ab1ea684dee, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 1500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 4
+    _modifier: {fileID: 11400000, guid: 233ad804b9412cf488025de92ec58f3b, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 2000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 4
+    _modifier: {fileID: 11400000, guid: a573766ff84ecb44c806c39411160fb1, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 2500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 4
+    _modifier: {fileID: 11400000, guid: 6f304b0a86b12d04294e507a705801cb, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 3000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a60598c4609dee94e85cae5774efcee8, type: 2}
+    _requiredLevel: 5
+    _modifier: {fileID: 11400000, guid: d76dd583234f2f840b859e046fd675fc, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 4000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: af7efe560d1e06f439bdcdca4e14a3b2, type: 2}
+    _requiredLevel: 5
+    _modifier: {fileID: 11400000, guid: 8da2a70b9ec3b2043966b5123960ab48, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 4500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 5
+    _modifier: {fileID: 11400000, guid: a402d41457095a44081e26ea47cd813c, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 3500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 6
+    _modifier: {fileID: 11400000, guid: 9d462fcbab33dc0459a89d6d37295e36, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 5000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 6
+    _modifier: {fileID: 11400000, guid: 62f508c6ea9056041bd11a6c9c13e638, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 5500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 6
+    _modifier: {fileID: 11400000, guid: 838e2f8ea6db5c746b94eef562054905, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 6000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 7
+    _modifier: {fileID: 11400000, guid: ea0f6feddaaa62b429866b97b0cd7fd8, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 7000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a60598c4609dee94e85cae5774efcee8, type: 2}
+    _requiredLevel: 7
+    _modifier: {fileID: 11400000, guid: 59105f35b35493c42968b02089740f39, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 8000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: af7efe560d1e06f439bdcdca4e14a3b2, type: 2}
+    _requiredLevel: 7
+    _modifier: {fileID: 11400000, guid: c8a0f4463f08f1d439d079583de11c8b, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 9000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 8
+    _modifier: {fileID: 11400000, guid: 93e84f2357dc7c54abba3fd2cc06d1d3, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 10000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 8
+    _modifier: {fileID: 11400000, guid: 095d31ea60b08dd41a653d9cc22f7d9d, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 12000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 8
+    _modifier: {fileID: 11400000, guid: 404642e611cbe7142889d20586cec332, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 14000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 9
+    _modifier: {fileID: 11400000, guid: aa5169f73cfa1104ab20bea9d71c9802, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 16000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 9
+    _modifier: {fileID: 11400000, guid: 0fe349e57fecaca4ca878ac49362868c, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 17000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 9
+    _modifier: {fileID: 11400000, guid: 1cf125d7c939b024ea6cdc4c77ecf8c7, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 10
+    _modifier: {fileID: 11400000, guid: 77e046f3b44e4bf46bd5140d79610f96, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 10
+    _modifier: {fileID: 11400000, guid: b3f2e86e7a83e594986b32b3c0ea8d51, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 10
+    _modifier: {fileID: 11400000, guid: 6ea72a7f82be9bd449786b4c6146c8cf, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 11
+    _modifier: {fileID: 11400000, guid: c2996f303be134043a32689bcf7a0004, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 11
+    _modifier: {fileID: 11400000, guid: 1e455c7e2575dfe4283b3e0791ade782, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 11
+    _modifier: {fileID: 11400000, guid: 2f5a6273755162d40aa97f0503696db0, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 25550
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 12
+    _modifier: {fileID: 11400000, guid: aedbc01964a64f54ebb8e7c1200e380e, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 28150
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 12
+    _modifier: {fileID: 11400000, guid: c1e1ca90b26cabf4889767614d7ab6a4, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 31000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 12
+    _modifier: {fileID: 11400000, guid: a1eef268ed60bfc49ae24484b73fa0ea, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 33800
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 13
+    _modifier: {fileID: 11400000, guid: a4ff727dfa44eec40b23418d53b19d00, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 36550
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 13
+    _modifier: {fileID: 11400000, guid: 30b9ff9009f29c749a70d0d2b4f713bc, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 39500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 13
+    _modifier: {fileID: 11400000, guid: 8435577f107d2fa49a58dd17244b0a24, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 42300
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 14
+    _modifier: {fileID: 11400000, guid: d253a2361f71e0e4c8e1afd01c931fb3, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 45300
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 14
+    _modifier: {fileID: 11400000, guid: 01a4e1ed8e3db114fafeae9df77ab407, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 48050
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 14
+    _modifier: {fileID: 11400000, guid: 9a071f6c306c1ff4bb0ead6f54ae2ea6, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 50950
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 15
+    _modifier: {fileID: 11400000, guid: 78c44f55e9835c14e8480c561c71439f, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 54050
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 15
+    _modifier: {fileID: 11400000, guid: f561abe8b14ce84488b6bc320a2b9db1, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 70300
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 15
+    _modifier: {fileID: 11400000, guid: 9562ff49f3e1c7d48b03f9e585790756, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 87900
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 16
+    _modifier: {fileID: 11400000, guid: 12fc6a24249ec3f4eb834f26c1c8d834, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 105500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 16
+    _modifier: {fileID: 11400000, guid: 7d407a91e7eea4543b730acc5ea0ad21, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 123450
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+    _requiredLevel: 16
+    _modifier: {fileID: 11400000, guid: d04071ca6ffaf554fba6ae4a5e9d4329, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 142000
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: f845eeeb60d279440a3bad27e9207dcf, type: 2}
+    _requiredLevel: 17
+    _modifier: {fileID: 11400000, guid: ee93a5aa6d8cd794285fd9f0b6b9c98e, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 160500
+    _isWrongOrder: 0
+  - _icon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+    _requiredLevel: 17
+    _modifier: {fileID: 11400000, guid: 141c6d7405fa3cb46a2f0bba970c595a, type: 2}
+    _price:
+      _inventoryItemData: {fileID: 11400000, guid: d0f84521fa3cbcf4caf334c59b725487, type: 2}
+      _amount: 179800
+    _isWrongOrder: 0
+  _isWrongOrder: 0
+  _playerHealthPointIcon: {fileID: 21300000, guid: df9e5668336950e43b6cc4ca9f55547a, type: 2}
+  _playerArmorIcon: {fileID: 21300000, guid: a86afa62d491b274ca5ef926679cf25c, type: 2}
+  _unitHpIcon: {fileID: 21300000, guid: a60598c4609dee94e85cae5774efcee8, type: 2}
+  _unitDamageIcon: {fileID: 21300000, guid: af7efe560d1e06f439bdcdca4e14a3b2, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f26a5db2d793d590086f51335f6c0c2, type: 3}
+  m_Name: BuildingData_Tower_RollingLog
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 9997b944-b830-4806-a407-e513d6700b83
+  _addBuildingUpgrade: {fileID: 11400000, guid: ac361189ee8209248ab928a1987e139a, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: 823e2fa4fe2feb74baa4030a3a5cd878, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 29464846018038f4f93ffb5eeb57d434, type: 2}
+  _prefab: {fileID: 114055087118699616, guid: 97471119cd5f7a847bcaecbaa1b0684b, type: 2}
+  _towerData: {fileID: 11400000, guid: 13afb41bdff8389479eeca0aa25899bd, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 0
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules: []
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737a607cfb1038ac800b9ba44926ccaf, type: 3}
+  m_Name: ArenaEnemyStrategy_Hard_5
+  m_EditorClassIdentifier:
+  _availableCards:
+  - {fileID: 11400000, guid: 9cfc21870176cd443978aca3ad99b6cb, type: 2}
+  - {fileID: 11400000, guid: d0287f79d412ab6458b2ff92a4aa6332, type: 2}
+  - {fileID: 11400000, guid: 66adc2abf708200498b75e5bb6f3e59c, type: 2}
+  - {fileID: 11400000, guid: e999b4ad3cf22754d88256c4166bb86f, type: 2}
+  - {fileID: 11400000, guid: 71eceddd254687e40a76f19a687cb2ad, type: 2}
+  - {fileID: 11400000, guid: 99481ba3b6e14de46be694da3d274278, type: 2}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  _upgradesForced:
+  - {fileID: 11400000, guid: 71eceddd254687e40a76f19a687cb2ad, type: 2}
+  - {fileID: 11400000, guid: d0287f79d412ab6458b2ff92a4aa6332, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: d0287f79d412ab6458b2ff92a4aa6332, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 79a1cb587942e7c42ad02f1e882ab3c5, type: 2}
+  _upgradesPriority: []
+  _buildingPlacementConfig: {fileID: 11400000, guid: 3c4d8a6cbfa321649a72965be919d865, type: 2}

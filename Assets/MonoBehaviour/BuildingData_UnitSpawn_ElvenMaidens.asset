@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c682ac431076972cdfff15dac6cd4289, type: 3}
+  m_Name: BuildingData_UnitSpawn_ElvenMaidens
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: 2344f40b-0482-4ecb-9110-343bd65a7f5b
+  _addBuildingUpgrade: {fileID: 11400000, guid: 5fa6ea190da6d6e4993fcc4bb2e38120, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: 66470caa5759292428ca5e6b5c346704, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: 8a12ce629f996aa47ab4cc1a557226be, type: 2}
+  _prefab: {fileID: 114477154238966612, guid: 0c11c62cfce804f4580132abf5d71e05, type: 2}
+  _spawnUnit: {fileID: 11400000, guid: ddc1d26de25f991479b4c7805fe6e07c, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 3
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules:
+      - {fileID: 11400000, guid: 554cbdaf0c03f894fa307a8e0a6a59c3, type: 2}
+    _adjacentBuildingBonusTarget: {fileID: 11400000, guid: 7ea68f404bcb27c498c802cd18910b31, type: 2}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5

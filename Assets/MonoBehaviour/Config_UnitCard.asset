@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97b53089fca353a504d516629730751f, type: 3}
+  m_Name: Config_UnitCard
+  m_EditorClassIdentifier:
+  _collection: {fileID: 11400000, guid: 82f7198dc6641134aa38402cc30c4884, type: 2}
+  _levelUpCollection: {fileID: 11400000, guid: 3358b70137d59ce4293f1a8ab64cbecd, type: 2}
+  _unlockReward:
+    _rewardType: 0
+    _inventoryItemData: {fileID: 11400000, guid: 1b8d66052fe097345ac8b675bf9bdee9, type: 2}
+    _equipmentRarity: 0
+    _amount: 5

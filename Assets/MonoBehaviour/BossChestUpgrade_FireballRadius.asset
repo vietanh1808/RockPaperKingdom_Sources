@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d16b2dd5afd89d47b6ad5eb6af9907b2, type: 3}
+  m_Name: BossChestUpgrade_FireballRadius
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: fb31c4af-bd1b-4acc-a804-f3ed53124207
+  _icon: {fileID: 21300000, guid: fe2c103a6ac0d19428453f5c871dddf0, type: 2}
+  _name: Fireball Radius
+  _description: Increase Fire Mage attack radius by 60%
+  _hint:
+  _maxUpgradesAmount: 100
+  _weight: 1
+  _addUpgrades: []
+  _removeUpgrades: []
+  _cellsProviderType: 0
+  _targetType: 3
+  _specificBuildingData: {fileID: 11400000, guid: b64967a3682dd664f8067da3a80d3104, type: 2}
+  _upgradeModuleHolder:
+    _parent: {fileID: 11400000}
+    _modules:
+    - {fileID: 11400000, guid: f2647b744c4921748af76cc0322c71d3, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59e80f1efc645a1f34c7ebf4ea8f4670, type: 3}
+  m_Name: Config_EnemyHint
+  m_EditorClassIdentifier:
+  _entries:
+  - _unitData: {fileID: 11400000, guid: fc3212549ea209a43808179ddb75e0cf, type: 2}
+    _hintDescription: Reflects damage back. Low-HP units will kill themselves attacking it
+  - _unitData: {fileID: 11400000, guid: b4ceb00dbc4a00d449eb013f15d1e0f2, type: 2}
+    _hintDescription: Jumps to your backline. Protect ranged units or they'll be picked off first.
+  - _unitData: {fileID: 11400000, guid: 00c66e23a74199641b819908e99f0e14, type: 2}
+    _hintDescription: Fireballs deal area damage. Counter with high-HP units.
+  - _unitData: {fileID: 11400000, guid: c7dcd16282e47e144bf71f3d27a51fd7, type: 2}
+    _hintDescription: Fast, high damage single target. Shreds tanks but struggles against crowds.
+  - _unitData: {fileID: 11400000, guid: 6763abca2369a4b4ea6b55fffa9c4421, type: 2}
+    _hintDescription: Slow but very strong. Swarm it with many units.
+  - _unitData: {fileID: 11400000, guid: 3a3aaf4003b88ac4d8b4900ec11da21f, type: 2}
+    _hintDescription: Summons skeleton warriors over time. Kill it fast before you're overwhelmed.
+  - _unitData: {fileID: 11400000, guid: 6b185bead6ff80042b77d7439df8eff5, type: 2}
+    _hintDescription: "Launches a spear volley before joining the fight. Survive the first strike.\n"

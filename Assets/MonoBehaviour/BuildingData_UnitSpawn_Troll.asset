@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c682ac431076972cdfff15dac6cd4289, type: 3}
+  m_Name: BuildingData_UnitSpawn_Troll
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _guid: aef9fa04-5a4d-49e0-b93d-35155a36f77e
+  _addBuildingUpgrade: {fileID: 11400000, guid: 9cfc21870176cd443978aca3ad99b6cb, type: 2}
+  _isTargetable: 0
+  _level2LevelUp: {fileID: 11400000, guid: cba6da6071541be40acac1b2c9332bc5, type: 2}
+  _level3LevelUp: {fileID: 11400000, guid: c1b40dfc67d085946b88003f69ed352b, type: 2}
+  _prefab: {fileID: 114331953422403737, guid: bdc1a9eda477cc94caef060571ade420, type: 2}
+  _spawnUnit: {fileID: 11400000, guid: 5fcf86a354dc067468eabb7843fcfd80, type: 2}
+  _uniqueBonus:
+    _uniqueBonusType: 1
+    _uniqueBonusModules:
+      _parent: {fileID: 11400000}
+      _modules:
+      - {fileID: 11400000, guid: 88bafd4963a9fcd47b8927b961011c9d, type: 2}
+    _adjacentBuildingBonusTarget: {fileID: 0}
+    _trackedInventoryItem: {fileID: 0}
+    _amountPerIncrease: 5
