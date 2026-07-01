@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392534799, guid: 91311d0d19abdf539bed76c74b3925f8, type: 3}
+  m_Name: GameInterfaces_Settings
+  m_EditorClassIdentifier:
+  useCodeSettersInstead: 0
+  storageInterface: {fileID: 11400000, guid: 7199d4ed774482448810f68bb61e09f2, type: 2}
+  adsInterface: {fileID: 11400000, guid: ff5939f632ec22246b6a5a2ac953cec3, type: 2}
+  iapInterface: {fileID: 0}
+  rewardsInterface: {fileID: 11400000, guid: 7d8fd8f6a8f237648b9ade8bd1b525c2, type: 2}
+  transactionsInterface: {fileID: 0}
